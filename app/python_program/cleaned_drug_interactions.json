@@ -1,0 +1,4459 @@
+[
+    {
+        "drug_name": "Donepezil",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Bradycardia, Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May worsen bradycardia and increase gastric acid secretion",
+        "contraindications_type": "GI-related, Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "Anticholinergics, NSAIDs, CYP3A4 inhibitors",
+        "drug_drug_interaction": [
+            "Ketoconazole",
+            "Quinidine",
+            "Rifampin"
+        ]
+    },
+    {
+        "drug_name": "Rivastigmine",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Absolute",
+        "risk_description": "Can lead to increased drug accumulation and toxicity",
+        "contraindications_type": "GI-related, Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "Anticholinergics, beta-blockers",
+        "drug_drug_interaction": [
+            "Metoclopramide",
+            "Beta-blockers",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Galantamine",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Increased risk of toxicity",
+        "contraindications_type": "GI-related, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "CYP2D6 & CYP3A4 inhibitors, NSAIDs",
+        "drug_drug_interaction": [
+            "Ketoconazole",
+            "Paroxetine",
+            "Erythromycin"
+        ]
+    },
+    {
+        "drug_name": "Tacrine",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Hepatotoxicity risk",
+        "severity": "Absolute",
+        "risk_description": "May cause liver damage",
+        "contraindications_type": "Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Hepatotoxic drugs, CYP1A2 inhibitors",
+        "drug_drug_interaction": [
+            "Theophylline",
+            "Cimetidine",
+            "Fluoroquinolone antibiotics"
+        ]
+    },
+    {
+        "drug_name": "Memantine",
+        "category": "NMDA Receptor Antagonist",
+        "contraindications": "Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "May require dose adjustment",
+        "contraindications_type": "Renal-related, Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "NMDA antagonists, diuretics, carbonic anhydrase inhibitors",
+        "drug_drug_interaction": [
+            "Amantadine",
+            "Sodium bicarbonate",
+            "Dextromethorphan"
+        ]
+    },
+    {
+        "drug_name": "Ginkgo Biloba",
+        "category": "Herbal Supplement",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Absolute",
+        "risk_description": "Increases bleeding risk",
+        "contraindications_type": "Bleeding-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, NSAIDs, SSRIs",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Aspirin",
+            "Ibuprofen"
+        ]
+    },
+    {
+        "drug_name": "Piracetam",
+        "category": "Nootropic",
+        "contraindications": "Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Risk of drug accumulation and toxicity",
+        "contraindications_type": "Renal-related, Bleeding-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, CNS stimulants",
+        "drug_drug_interaction": [
+            "Thyroid extract",
+            "Warfarin",
+            "Clopidogrel"
+        ]
+    },
+    {
+        "drug_name": "Citalopram",
+        "category": "SSRI",
+        "contraindications": "QT prolongation, Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "May increase risk of arrhythmias",
+        "contraindications_type": "Cardiac-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, caution in lactation",
+        "drug_interactions": "MAOIs, NSAIDs, QT-prolonging drugs",
+        "drug_drug_interaction": [
+            "Tramadol",
+            "Linezolid",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Sertraline",
+        "category": "SSRI",
+        "contraindications": "MAOI use, Severe liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of serotonin syndrome and hepatic complications",
+        "contraindications_type": "GI-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (6+)",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "MAOIs, NSAIDs, anticoagulants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Warfarin",
+            "Pimozide"
+        ]
+    },
+    {
+        "drug_name": "Fluoxetine",
+        "category": "SSRI",
+        "contraindications": "MAOI use, Bipolar disorder (manic episodes)",
+        "severity": "Absolute",
+        "risk_description": "May induce serotonin syndrome or mania",
+        "contraindications_type": "GI-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (8+)",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "MAOIs, NSAIDs, warfarin",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "NSAIDs",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Venlafaxine",
+        "category": "SNRI",
+        "contraindications": "Uncontrolled hypertension",
+        "severity": "Absolute",
+        "risk_description": "Can increase blood pressure",
+        "contraindications_type": "Cardiac-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, caution in lactation",
+        "drug_interactions": "MAOIs, NSAIDs, QT-prolonging drugs",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Linezolid",
+            "Triptans"
+        ]
+    },
+    {
+        "drug_name": "Escitalopram",
+        "category": "SSRI",
+        "contraindications": "QT prolongation",
+        "severity": "Relative",
+        "risk_description": "Can increase risk of arrhythmias",
+        "contraindications_type": "Cardiac-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, caution in lactation",
+        "drug_interactions": "MAOIs, NSAIDs, QT-prolonging drugs",
+        "drug_drug_interaction": [
+            "Lithium",
+            "Tramadol",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Duloxetine",
+        "category": "SNRI",
+        "contraindications": "Uncontrolled glaucoma",
+        "severity": "Absolute",
+        "risk_description": "May increase intraocular pressure",
+        "contraindications_type": "Hepatic-related, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, caution in lactation",
+        "drug_interactions": "MAOIs, NSAIDs, alcohol",
+        "drug_drug_interaction": [
+            "CYP1A2 inhibitors",
+            "NSAIDs",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Mirtazapine",
+        "category": "Atypical Antidepressant",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Increased drug accumulation",
+        "contraindications_type": "GI-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, caution in lactation",
+        "drug_interactions": "MAOIs, benzodiazepines, CNS depressants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Tramadol",
+            "Linezolid"
+        ]
+    },
+    {
+        "drug_name": "Clonazepam",
+        "category": "Benzodiazepine",
+        "contraindications": "Severe respiratory insufficiency",
+        "severity": "Absolute",
+        "risk_description": "May cause respiratory depression",
+        "contraindications_type": "Neurological-related, Respiratory-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (seizures)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, opioids, alcohol",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "Opioids",
+            "Antihistamines"
+        ]
+    },
+    {
+        "drug_name": "Lorazepam",
+        "category": "Benzodiazepine",
+        "contraindications": "Acute narrow-angle glaucoma",
+        "severity": "Absolute",
+        "risk_description": "May worsen intraocular pressure",
+        "contraindications_type": "Neurological-related, Respiratory-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, opioids, alcohol",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "Opioids",
+            "Antihistamines"
+        ]
+    },
+    {
+        "drug_name": "Haloperidol",
+        "category": "Typical Antipsychotic",
+        "contraindications": "Parkinson\u2019s disease, QT prolongation",
+        "severity": "Absolute",
+        "risk_description": "Increases movement disorders and arrhythmia risk",
+        "contraindications_type": "Neurological-related, Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "QT-prolonging drugs, anticholinergics",
+        "drug_drug_interaction": [
+            "Lithium",
+            "Carbamazepine",
+            "Rifampin"
+        ]
+    },
+    {
+        "drug_name": "Quetiapine",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Increased drug accumulation",
+        "contraindications_type": "Neurological-related, Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "QT-prolonging drugs, CNS depressants",
+        "drug_drug_interaction": [
+            "Rifampin",
+            "Ketoconazole",
+            "Carbamazepine"
+        ]
+    },
+    {
+        "drug_name": "Olanzapine",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Diabetes mellitus",
+        "severity": "Relative",
+        "risk_description": "Can increase blood sugar levels",
+        "contraindications_type": "Metabolic-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, dopamine antagonists",
+        "drug_drug_interaction": [
+            "Rifampin",
+            "Carbamazepine",
+            "Benzodiazepines"
+        ]
+    },
+    {
+        "drug_name": "Risperidone",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Dementia-related psychosis",
+        "severity": "Absolute",
+        "risk_description": "Increased mortality risk in elderly patients",
+        "contraindications_type": "Neurological-related, Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "QT-prolonging drugs, CNS depressants",
+        "drug_drug_interaction": [
+            "Carbamazepine",
+            "Fluoxetine",
+            "Paroxetine"
+        ]
+    },
+    {
+        "drug_name": "Aripiprazole",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Increased risk of toxicity",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, adolescents (13+)",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "CYP3A4 & CYP2D6 inhibitors, CNS depressants",
+        "drug_drug_interaction": [
+            "Carbamazepine",
+            "Ketoconazole",
+            "Fluoxetine"
+        ]
+    },
+    {
+        "drug_name": "Carbamazepine",
+        "category": "Antiepileptic",
+        "contraindications": "Bone marrow suppression",
+        "severity": "Absolute",
+        "risk_description": "Can cause fatal blood disorders",
+        "contraindications_type": "Neurological-related, Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (6+)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation (teratogenic)",
+        "drug_interactions": "CYP3A4 inducers/inhibitors, anticoagulants",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Erythromycin",
+            "Verapamil"
+        ]
+    },
+    {
+        "drug_name": "Valproate Sodium",
+        "category": "Antiepileptic",
+        "contraindications": "Pregnancy, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of birth defects and hepatotoxicity",
+        "contraindications_type": "Hepatic-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy (teratogenic), caution in lactation",
+        "drug_interactions": "CNS depressants, antiplatelets, carbamazepine",
+        "drug_drug_interaction": [
+            "Carbamazepine",
+            "Lamotrigine",
+            "Aspirin"
+        ]
+    },
+    {
+        "drug_name": "Oxcarbazepine",
+        "category": "Antiepileptic",
+        "contraindications": "Hypersensitivity to carbamazepine",
+        "severity": "Absolute",
+        "risk_description": "Cross-reactivity risk",
+        "contraindications_type": "Neurological-related, Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (4+)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, caution in lactation",
+        "drug_interactions": "CYP3A4 inducers, diuretics, warfarin",
+        "drug_drug_interaction": [
+            "Oral contraceptives",
+            "Carbamazepine",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Lamotrigine",
+        "category": "Antiepileptic",
+        "contraindications": "Severe skin reactions (Stevens-Johnson Syndrome)",
+        "severity": "Absolute",
+        "risk_description": "Can cause life-threatening rash",
+        "contraindications_type": "Neurological-related, Skin-related",
+        "severity_level": "High",
+        "allergy_risks": "High risk (SJS/TEN)",
+        "applicable_age_groups": "Adults, children (2+)",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "Oral contraceptives, valproate, CNS depressants",
+        "drug_drug_interaction": [
+            "Valproate",
+            "Carbamazepine",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Gabapentin",
+        "category": "Antiepileptic/Neuropathic Pain",
+        "contraindications": "Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Drug accumulation increases toxicity risk",
+        "contraindications_type": "Neurological-related, Renal-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children (3+)",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, antacids",
+        "drug_drug_interaction": [
+            "Antacids (aluminum/magnesium)",
+            "Morphine",
+            "Hydrocodone"
+        ]
+    },
+    {
+        "drug_name": "Topiramate",
+        "category": "Antiepileptic",
+        "contraindications": "Pregnancy, History of kidney stones",
+        "severity": "Relative",
+        "risk_description": "Increases risk of fetal harm and kidney stones",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (2+)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy (teratogenic), caution in lactation",
+        "drug_interactions": "CNS depressants, carbonic anhydrase inhibitors",
+        "drug_drug_interaction": [
+            "Oral contraceptives",
+            "Metformin",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Levetiracetam",
+        "category": "Antiepileptic",
+        "contraindications": "Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Increased toxicity risk",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children (1+)",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, antihistamines",
+        "drug_drug_interaction": [
+            "Methotrexate",
+            "Carbamazepine",
+            "Central nervous system depressants"
+        ]
+    },
+    {
+        "drug_name": "Amitriptyline",
+        "category": "Tricyclic Antidepressant",
+        "contraindications": "Recent myocardial infarction",
+        "severity": "Absolute",
+        "risk_description": "Increases risk of arrhythmias",
+        "contraindications_type": "Cardiac-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "MAOIs, QT-prolonging drugs, CNS depressants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "SSRIs",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Nortriptyline",
+        "category": "Tricyclic Antidepressant",
+        "contraindications": "Glaucoma, Urinary retention",
+        "severity": "Relative",
+        "risk_description": "May worsen these conditions",
+        "contraindications_type": "Cardiac-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "MAOIs, QT-prolonging drugs, CNS depressants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "SSRIs",
+            "Clonidine"
+        ]
+    },
+    {
+        "drug_name": "Trazodone",
+        "category": "Atypical Antidepressant",
+        "contraindications": "Severe cardiac disease",
+        "severity": "Relative",
+        "risk_description": "Risk of arrhythmias and hypotension",
+        "contraindications_type": "Cardiac-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy, avoid in lactation",
+        "drug_interactions": "MAOIs, QT-prolonging drugs, CNS depressants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "CNS depressants",
+            "Fluoxetine"
+        ]
+    },
+    {
+        "drug_name": "Bupropion",
+        "category": "Atypical Antidepressant",
+        "contraindications": "Seizure disorder",
+        "severity": "Absolute",
+        "risk_description": "Lowers seizure threshold",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "MAOIs, CYP2B6 inhibitors, alcohol",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Antipsychotics",
+            "Carbamazepine"
+        ]
+    },
+    {
+        "drug_name": "Hydroxyzine",
+        "category": "Antihistamine/Anxiolytic",
+        "contraindications": "QT prolongation",
+        "severity": "Relative",
+        "risk_description": "May cause arrhythmias",
+        "contraindications_type": "Neurological-related, Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (6+)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, QT-prolonging drugs",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "CNS depressants",
+            "Opioids"
+        ]
+    },
+    {
+        "drug_name": "Chlorpromazine",
+        "category": "Typical Antipsychotic",
+        "contraindications": "Severe liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of hepatotoxicity",
+        "contraindications_type": "Neurological-related, Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "QT-prolonging drugs, CNS depressants",
+        "drug_drug_interaction": [
+            "Lithium",
+            "CNS depressants",
+            "Levodopa"
+        ]
+    },
+    {
+        "drug_name": "Prochlorperazine",
+        "category": "Typical Antipsychotic",
+        "contraindications": "Dementia-related psychosis",
+        "severity": "Absolute",
+        "risk_description": "Increased mortality risk in elderly patients",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (2+)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, anticholinergics",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Anticholinergic drugs",
+            "Lithium"
+        ]
+    },
+    {
+        "drug_name": "Lorcaserin",
+        "category": "Weight Loss Medication",
+        "contraindications": "Pregnancy",
+        "severity": "Absolute",
+        "risk_description": "May cause fetal harm",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Serotonergic drugs, MAOIs, CYP2D6 substrates",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "SSRIs",
+            "Triptans"
+        ]
+    },
+    {
+        "drug_name": "Ezetimibe",
+        "category": "Lipid-Lowering Agent",
+        "contraindications": "Active liver disease",
+        "severity": "Absolute",
+        "risk_description": "Increases liver damage risk",
+        "contraindications_type": "Hepatic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Statins, cyclosporine, fibrates",
+        "drug_drug_interaction": [
+            "Cyclosporine",
+            "Fibrates",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Rosuvastatin",
+        "category": "Statin",
+        "contraindications": "Pregnancy, Active liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of birth defects and hepatotoxicity",
+        "contraindications_type": "Hepatic-related, Metabolic-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CYP3A4 inhibitors, fibrates, warfarin",
+        "drug_drug_interaction": [
+            "Cyclosporine",
+            "Warfarin",
+            "Gemfibrozil"
+        ]
+    },
+    {
+        "drug_name": "Atorvastatin",
+        "category": "Statin",
+        "contraindications": "Pregnancy, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can cause birth defects and liver toxicity",
+        "contraindications_type": "Hepatic-related, Metabolic-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CYP3A4 inhibitors, fibrates, warfarin",
+        "drug_drug_interaction": [
+            "Grapefruit juice",
+            "Warfarin",
+            "Cyclosporine"
+        ]
+    },
+    {
+        "drug_name": "Simvastatin",
+        "category": "Statin",
+        "contraindications": "Active liver disease, Pregnancy",
+        "severity": "Absolute",
+        "risk_description": "Risk of hepatotoxicity and birth defects",
+        "contraindications_type": "Hepatic-related, Metabolic-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CYP3A4 inhibitors, fibrates, warfarin",
+        "drug_drug_interaction": [
+            "Grapefruit juice",
+            "Warfarin",
+            "Cyclosporine"
+        ]
+    },
+    {
+        "drug_name": "Niacin",
+        "category": "Lipid-Lowering Agent",
+        "contraindications": "Severe liver disease, Peptic ulcer",
+        "severity": "Absolute",
+        "risk_description": "Can cause liver toxicity and worsen ulcers",
+        "contraindications_type": "Hepatic-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Statins, antihypertensives, alcohol",
+        "drug_drug_interaction": [
+            "Statins (e.g.",
+            "Simvastatin",
+            "Atorvastatin)",
+            "Antihypertensive drugs",
+            "Alcohol"
+        ]
+    },
+    {
+        "drug_name": "Omega-3 Acid Ethyl Esters",
+        "category": "Lipid-Lowering Agent",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Relative",
+        "risk_description": "Can increase bleeding risk",
+        "contraindications_type": "Metabolic-related, Bleeding-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antiplatelets, antihypertensives",
+        "drug_drug_interaction": [
+            "Anticoagulants (e.g.",
+            "Warfarin",
+            "Aspirin)",
+            "Antiplatelet drugs (e.g.",
+            "Clopidogrel)",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Donepezil + Memantine",
+        "category": "Acetylcholinesterase Inhibitor + NMDA Antagonist",
+        "contraindications": "Bradycardia, Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "May worsen bradycardia and cause drug accumulation",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticholinergics, NMDA antagonists, CNS depressants",
+        "drug_drug_interaction": [
+            "Ketoconazole",
+            "Rifampin",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Vitamin E",
+        "category": "Antioxidant",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Relative",
+        "risk_description": "Can increase bleeding risk",
+        "contraindications_type": "Bleeding-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antiplatelets, chemotherapy agents",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Aspirin",
+            "Cyclosporine"
+        ]
+    },
+    {
+        "drug_name": "Folic Acid",
+        "category": "Vitamin Supplement",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy & lactation",
+        "drug_interactions": "Anticonvulsants, methotrexate, sulfasalazine",
+        "drug_drug_interaction": [
+            "Methotrexate",
+            "Phenytoin",
+            "Trimethoprim"
+        ]
+    },
+    {
+        "drug_name": "Ginkgo Biloba + Piracetam",
+        "category": "Herbal + Nootropic",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Absolute",
+        "risk_description": "Increases bleeding risk",
+        "contraindications_type": "Neurological-related, Bleeding-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, NSAIDs, serotonergic drugs",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Aspirin",
+            "Clopidogrel"
+        ]
+    },
+    {
+        "drug_name": "Citicoline",
+        "category": "Nootropic",
+        "contraindications": "Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "Risk of drug accumulation",
+        "contraindications_type": "Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Levodopa, acetylcholinesterase inhibitors",
+        "drug_drug_interaction": [
+            "Levodopa",
+            "Meclofenoxate",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Acetyl-L-Carnitine",
+        "category": "Nootropic",
+        "contraindications": "Hypothyroidism, Seizure disorders",
+        "severity": "Relative",
+        "risk_description": "May worsen symptoms in these conditions",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Warfarin, thyroid hormones, antidiabetic drugs",
+        "drug_drug_interaction": [
+            "Thyroid hormones",
+            "Warfarin",
+            "Anticoagulants"
+        ]
+    },
+    {
+        "drug_name": "Coenzyme Q10",
+        "category": "Antioxidant",
+        "contraindications": "Hypotension, Warfarin use",
+        "severity": "Relative",
+        "risk_description": "Can lower blood pressure further",
+        "contraindications_type": "Cardiovascular-related, Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Antihypertensives, warfarin, statins",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Statins (e.g.",
+            "Simvastatin",
+            "Atorvastatin)",
+            "Blood pressure medications"
+        ]
+    },
+    {
+        "drug_name": "Huperzine A",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Bradycardia, Peptic ulcers",
+        "severity": "Relative",
+        "risk_description": "May worsen heart and gastrointestinal conditions",
+        "contraindications_type": "Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Acetylcholinesterase inhibitors, anticholinergics",
+        "drug_drug_interaction": [
+            "Cholinergic drugs",
+            "Anticholinergic drugs",
+            "Donepezil"
+        ]
+    },
+    {
+        "drug_name": "Phosphatidylserine",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Acetylcholinesterase inhibitors, anticoagulants",
+        "drug_drug_interaction": [
+            "Acetylcholinesterase inhibitors",
+            "Anticholinergic drugs",
+            "Blood thinners"
+        ]
+    },
+    {
+        "drug_name": "Cerebrolysin",
+        "category": "Nootropic",
+        "contraindications": "Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "May require dose adjustment",
+        "contraindications_type": "Neurological-related, Immune-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, neurotropic agents",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Antidepressants",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Vinpocetine",
+        "category": "Vasodilator/Nootropic",
+        "contraindications": "Pregnancy, Hypotension",
+        "severity": "Absolute",
+        "risk_description": "Risk of fetal harm and hypotension",
+        "contraindications_type": "Neurological-related, Bleeding-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antihypertensives, warfarin",
+        "drug_drug_interaction": [
+            "Blood thinners (e.g.",
+            "Warfarin",
+            "Aspirin)",
+            "Antihypertensive drugs",
+            "Clopidogrel"
+        ]
+    },
+    {
+        "drug_name": "Lecithin",
+        "category": "Lipid Supplement",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Metabolic-related, GI-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, statins",
+        "drug_drug_interaction": [
+            "Anticholinergic drugs",
+            "Acetylcholinesterase inhibitors",
+            "Blood thinners"
+        ]
+    },
+    {
+        "drug_name": "Choline Alfoscerate",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticholinergics, blood pressure medications",
+        "drug_drug_interaction": [
+            "Acetylcholinesterase inhibitors",
+            "Blood thinners",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Cerebroprotein Hydrolysate",
+        "category": "Nootropic",
+        "contraindications": "Severe kidney disease",
+        "severity": "Relative",
+        "risk_description": "Risk of toxicity in renal impairment",
+        "contraindications_type": "Neurological-related, Immune-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS stimulants, antihypertensives",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Antidepressants",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Selegiline",
+        "category": "MAOI (Antiparkinsonian)",
+        "contraindications": "MAOI or SSRI use, Hypertension",
+        "severity": "Absolute",
+        "risk_description": "Risk of serotonin syndrome and hypertensive crisis",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "MAOIs, serotonergic drugs, CNS stimulants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "SSRIs",
+            "Tricyclic antidepressants"
+        ]
+    },
+    {
+        "drug_name": "Phosphatidylcholine",
+        "category": "Lipid Supplement",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, statins",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "Acetylcholinesterase inhibitors",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Alpha-Lipoic Acid",
+        "category": "Antioxidant",
+        "contraindications": "Hypoglycemia, Thyroid disorders",
+        "severity": "Relative",
+        "risk_description": "May lower blood sugar excessively",
+        "contraindications_type": "Metabolic-related, Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Antidiabetic drugs, chemotherapy agents",
+        "drug_drug_interaction": [
+            "Antidiabetic drugs",
+            "Thyroid medications",
+            "Chemotherapy drugs"
+        ]
+    },
+    {
+        "drug_name": "Piracetam + Cinnarizine",
+        "category": "Nootropic + Antihistamine",
+        "contraindications": "Parkinson\u2019s disease, Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "May worsen movement disorders",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, CNS depressants, antihistamines",
+        "drug_drug_interaction": [
+            "Blood thinners (e.g.",
+            "Warfarin",
+            "Aspirin)",
+            "CNS depressants",
+            "Antihistamines"
+        ]
+    },
+    {
+        "drug_name": "Memantine HCl",
+        "category": "NMDA Receptor Antagonist",
+        "contraindications": "Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "Risk of drug accumulation",
+        "contraindications_type": "Neurological-related, Renal-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "NMDA antagonists, CNS depressants, diuretics",
+        "drug_drug_interaction": [
+            "Amantadine",
+            "Sodium bicarbonate",
+            "Dextromethorphan"
+        ]
+    },
+    {
+        "drug_name": "Galantamine HBr",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Severe renal or hepatic impairment",
+        "severity": "Absolute",
+        "risk_description": "Increased toxicity risk",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Acetylcholinesterase inhibitors, anticholinergics",
+        "drug_drug_interaction": [
+            "Ketoconazole",
+            "Paroxetine",
+            "Erythromycin"
+        ]
+    },
+    {
+        "drug_name": "Rivastigmine Patch",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Skin hypersensitivity, Severe liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe allergic reactions",
+        "contraindications_type": "Neurological-related, GI-related, Dermatological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Acetylcholinesterase inhibitors, anticholinergics, NSAIDs",
+        "drug_drug_interaction": [
+            "Metoclopramide",
+            "Beta-blockers",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Donepezil + Huperzine A",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Bradycardia, Peptic ulcers",
+        "severity": "Relative",
+        "risk_description": "May worsen heart and gastrointestinal conditions",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Acetylcholinesterase inhibitors, anticholinergics",
+        "drug_drug_interaction": [
+            "Cholinergic drugs",
+            "Anticholinergic drugs",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Omega-3 Fatty Acids",
+        "category": "Lipid Supplement",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Relative",
+        "risk_description": "Can increase bleeding risk",
+        "contraindications_type": "Cardiovascular-related, Bleeding-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antihypertensives, NSAIDs",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Aspirin",
+            "Clopidogrel"
+        ]
+    },
+    {
+        "drug_name": "Methylcobalamin (B12)",
+        "category": "Vitamin Supplement",
+        "contraindications": "Leber\u2019s hereditary optic neuropathy",
+        "severity": "Absolute",
+        "risk_description": "Can worsen optic atrophy",
+        "contraindications_type": "Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy & lactation",
+        "drug_interactions": "Chloramphenicol, metformin, PPIs",
+        "drug_drug_interaction": [
+            "Chloramphenicol",
+            "Metformin",
+            "Proton pump inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Nimodipine",
+        "category": "Calcium Channel Blocker",
+        "contraindications": "Severe hypotension",
+        "severity": "Absolute",
+        "risk_description": "Can further lower blood pressure",
+        "contraindications_type": "Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CYP3A4 inhibitors, antihypertensives, anticoagulants",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole",
+            "Erythromycin)",
+            "Carbamazepine",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Choline Bitartrate",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Acetylcholinesterase inhibitors, blood pressure medications",
+        "drug_drug_interaction": [
+            "Acetylcholinesterase inhibitors",
+            "Anticholinergic drugs",
+            "Blood thinners"
+        ]
+    },
+    {
+        "drug_name": "Alpha-GPC",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticholinergics, antihypertensives",
+        "drug_drug_interaction": [
+            "Acetylcholinesterase inhibitors",
+            "Blood thinners",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "L-Glutamine",
+        "category": "Amino Acid Supplement",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "May affect ammonia metabolism",
+        "contraindications_type": "Metabolic-related, GI-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy & lactation",
+        "drug_interactions": "Anticonvulsants, chemotherapy agents",
+        "drug_drug_interaction": [
+            "Antiepileptic drugs",
+            "Antipsychotics",
+            "Chemotherapy drugs"
+        ]
+    },
+    {
+        "drug_name": "Folic Acid + B12",
+        "category": "Vitamin Supplement",
+        "contraindications": "Leber\u2019s hereditary optic neuropathy",
+        "severity": "Absolute",
+        "risk_description": "Can worsen optic atrophy",
+        "contraindications_type": "Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy & lactation",
+        "drug_interactions": "Anticonvulsants, methotrexate, sulfasalazine",
+        "drug_drug_interaction": [
+            "Methotrexate",
+            "Phenytoin",
+            "Trimethoprim"
+        ]
+    },
+    {
+        "drug_name": "Nefiracetam",
+        "category": "Nootropic",
+        "contraindications": "Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "Risk of toxicity in kidney disease",
+        "contraindications_type": "Neurological-related, Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticonvulsants, CNS stimulants, acetylcholinesterase inhibitors",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Blood thinners",
+            "Antihypertensive drugs"
+        ]
+    },
+    {
+        "drug_name": "Coenzyme Q10 + Omega-3",
+        "category": "Antioxidant + Lipid Supplement",
+        "contraindications": "Hypotension, Bleeding disorders",
+        "severity": "Relative",
+        "risk_description": "Can lower blood pressure and increase bleeding risk",
+        "contraindications_type": "Cardiovascular-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, statins, antihypertensives",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Statins (e.g.",
+            "Simvastatin",
+            "Atorvastatin)",
+            "Blood pressure medications"
+        ]
+    },
+    {
+        "drug_name": "Ashwagandha Extract",
+        "category": "Herbal Adaptogen",
+        "contraindications": "Autoimmune diseases, Hypotension",
+        "severity": "Relative",
+        "risk_description": "May stimulate immune activity and lower blood pressure",
+        "contraindications_type": "Neurological-related, Immune-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Sedatives, immunosuppressants, thyroid hormones",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Immunosuppressants",
+            "Thyroid medications"
+        ]
+    },
+    {
+        "drug_name": "Bacopa Monnieri",
+        "category": "Herbal Nootropic",
+        "contraindications": "Pregnancy, Bradycardia",
+        "severity": "Relative",
+        "risk_description": "Can affect fetal development and slow heart rate",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticholinergics, sedatives, antidepressants",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Cholinergic drugs",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "S-Adenosylmethionine (SAMe)",
+        "category": "Mood Supplement",
+        "contraindications": "Bipolar disorder, MAOI use",
+        "severity": "Absolute",
+        "risk_description": "May induce mania or serotonin syndrome",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Antidepressants, serotonergic drugs, MAOIs",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "SSRIs",
+            "Tricyclic antidepressants"
+        ]
+    },
+    {
+        "drug_name": "Melatonin",
+        "category": "Sleep Aid/Hormone",
+        "contraindications": "Autoimmune diseases, Pregnancy",
+        "severity": "Relative",
+        "risk_description": "Can affect immune function and hormonal balance",
+        "contraindications_type": "Neurological-related, Sleep-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Sedatives, antihypertensives, immunosuppressants",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Blood thinners",
+            "Immunosuppressants"
+        ]
+    },
+    {
+        "drug_name": "Quetiapine XR",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Risk of drug accumulation",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, antihypertensives, anticholinergics",
+        "drug_drug_interaction": [
+            "Rifampin",
+            "Ketoconazole",
+            "Carbamazepine"
+        ]
+    },
+    {
+        "drug_name": "Armodafinil",
+        "category": "Wakefulness Promoter",
+        "contraindications": "Severe hypertension, Arrhythmias",
+        "severity": "Absolute",
+        "risk_description": "Can increase heart rate and blood pressure",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS stimulants, MAOIs, hormonal contraceptives",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole",
+            "Erythromycin)",
+            "Oral contraceptives",
+            "CNS stimulants"
+        ]
+    },
+    {
+        "drug_name": "Modafinil",
+        "category": "Wakefulness Promoter",
+        "contraindications": "Anxiety disorders, Uncontrolled hypertension",
+        "severity": "Relative",
+        "risk_description": "Can worsen anxiety and elevate blood pressure",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS stimulants, MAOIs, hormonal contraceptives",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole",
+            "Erythromycin)",
+            "Oral contraceptives",
+            "CNS stimulants"
+        ]
+    },
+    {
+        "drug_name": "Caffeine + Piracetam",
+        "category": "Stimulant + Nootropic",
+        "contraindications": "Anxiety, Insomnia, Arrhythmias",
+        "severity": "Relative",
+        "risk_description": "May exacerbate anxiety and heart conditions",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS stimulants, anticoagulants, sedatives",
+        "drug_drug_interaction": [
+            "Blood thinners (e.g.",
+            "Warfarin",
+            "Aspirin)",
+            "CNS stimulants",
+            "Antihypertensive drugs"
+        ]
+    },
+    {
+        "drug_name": "Adenosine",
+        "category": "Antiarrhythmic",
+        "contraindications": "Asthma, Heart block",
+        "severity": "Absolute",
+        "risk_description": "Can cause bronchospasm and worsen heart block",
+        "contraindications_type": "Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Beta-blockers, calcium channel blockers, theophylline",
+        "drug_drug_interaction": [
+            "Caffeine",
+            "Theophylline",
+            "Dipyridamole"
+        ]
+    },
+    {
+        "drug_name": "Flupentixol + Melitracen",
+        "category": "Antipsychotic + Antidepressant",
+        "contraindications": "Severe cardiac disease, MAOI use",
+        "severity": "Absolute",
+        "risk_description": "May increase cardiac risk and serotonin syndrome",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, MAOIs, anticholinergics",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "CNS depressants",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Escitalopram + Donepezil",
+        "category": "SSRI + Acetylcholinesterase Inhibitor",
+        "contraindications": "QT prolongation, Bradycardia",
+        "severity": "Relative",
+        "risk_description": "Can increase risk of arrhythmias",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "SSRIs, acetylcholinesterase inhibitors, anticoagulants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "NSAIDs",
+            "Serotonergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Benzodiazepines",
+        "category": "Anxiolytic/Sedative",
+        "contraindications": "Severe respiratory insufficiency",
+        "severity": "Absolute",
+        "risk_description": "May cause respiratory depression",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, alcohol, opioids",
+        "drug_drug_interaction": [
+            "CNS depressants (e.g.",
+            "Alcohol",
+            "Opioids)",
+            "Antipsychotics",
+            "Antihistamines"
+        ]
+    },
+    {
+        "drug_name": "Lithium Carbonate",
+        "category": "Mood Stabilizer",
+        "contraindications": "Renal disease, Dehydration",
+        "severity": "Absolute",
+        "risk_description": "Can cause lithium toxicity",
+        "contraindications_type": "Psychiatric-related, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "NSAIDs, diuretics, ACE inhibitors",
+        "drug_drug_interaction": [
+            "NSAIDs",
+            "Diuretics",
+            "ACE inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Valproic Acid",
+        "category": "Antiepileptic/Mood Stabilizer",
+        "contraindications": "Pregnancy, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of birth defects and hepatotoxicity",
+        "contraindications_type": "Neurological-related, Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticonvulsants, anticoagulants, CNS depressants",
+        "drug_drug_interaction": [
+            "Lamotrigine",
+            "Warfarin",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Clonazepam",
+        "category": "Benzodiazepine",
+        "contraindications": "Severe respiratory insufficiency",
+        "severity": "Absolute",
+        "risk_description": "Risk of respiratory depression",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, alcohol, opioids",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "CNS depressants",
+            "Opioids"
+        ]
+    },
+    {
+        "drug_name": "Olanzapine",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Diabetes, Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "May worsen blood sugar control",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, antihypertensives, anticholinergics",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Carbamazepine",
+            "Dopamine agonists"
+        ]
+    },
+    {
+        "drug_name": "Trazodone",
+        "category": "Antidepressant/Sleep Aid",
+        "contraindications": "Severe cardiac disease",
+        "severity": "Relative",
+        "risk_description": "Risk of arrhythmias and hypotension",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, serotonergic drugs, anticoagulants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "CNS depressants",
+            "SSRIs"
+        ]
+    },
+    {
+        "drug_name": "Mirtazapine",
+        "category": "Atypical Antidepressant",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Increased drug accumulation",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, serotonergic drugs, antihypertensives",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "CNS depressants",
+            "Serotonergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Haloperidol",
+        "category": "Typical Antipsychotic",
+        "contraindications": "Parkinson\u2019s disease, QT prolongation",
+        "severity": "Absolute",
+        "risk_description": "May worsen movement disorders and arrhythmias",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, anticholinergics, anticoagulants",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole",
+            "Erythromycin)",
+            "CNS depressants",
+            "Dopamine agonists"
+        ]
+    },
+    {
+        "drug_name": "Aripiprazole",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Increased risk of toxicity",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, antihypertensives, serotonergic drugs",
+        "drug_drug_interaction": [
+            "Carbamazepine",
+            "Rifampin",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Nicergoline",
+        "category": "Vasodilator/Nootropic",
+        "contraindications": "Hypotension, Bleeding disorders",
+        "severity": "Relative",
+        "risk_description": "Can lower blood pressure excessively",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antihypertensives, anticoagulants, vasodilators",
+        "drug_drug_interaction": [
+            "Blood thinners (e.g.",
+            "Warfarin",
+            "Aspirin)",
+            "Antihypertensive drugs",
+            "Dopamine agonists"
+        ]
+    },
+    {
+        "drug_name": "Dexamethasone",
+        "category": "Corticosteroid",
+        "contraindications": "Uncontrolled infections, Osteoporosis",
+        "severity": "Absolute",
+        "risk_description": "Can suppress immune function and bone density",
+        "contraindications_type": "Endocrine-related, Immunosuppressive-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "NSAIDs, anticoagulants, antidiabetic drugs",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole)",
+            "NSAIDs",
+            "Diuretics"
+        ]
+    },
+    {
+        "drug_name": "Propranolol",
+        "category": "Beta-Blocker",
+        "contraindications": "Asthma, Bradycardia",
+        "severity": "Absolute",
+        "risk_description": "Can induce bronchospasm and worsen slow heart rate",
+        "contraindications_type": "Cardiovascular-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Beta-blockers, antihypertensives, CNS depressants",
+        "drug_drug_interaction": [
+            "Calcium channel blockers",
+            "NSAIDs",
+            "Insulin"
+        ]
+    },
+    {
+        "drug_name": "Tadalafil",
+        "category": "PDE5 Inhibitor (Erectile Dysfunction)",
+        "contraindications": "Severe hypotension, Nitrate use",
+        "severity": "Absolute",
+        "risk_description": "Can cause life-threatening low blood pressure",
+        "contraindications_type": "Cardiovascular-related, Erectile dysfunction-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy (not applicable for lactation)",
+        "drug_interactions": "Nitrates, antihypertensives, alpha-blockers",
+        "drug_drug_interaction": [
+            "Nitrates",
+            "Alpha-blockers",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Baclofen",
+        "category": "Muscle Relaxant",
+        "contraindications": "Epilepsy, Renal impairment",
+        "severity": "Relative",
+        "risk_description": "May lower seizure threshold and accumulate in renal disease",
+        "contraindications_type": "Neurological-related, Musculoskeletal-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, opioids, antihypertensives",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Alcohol",
+            "Antihypertensive drugs"
+        ]
+    },
+    {
+        "drug_name": "Ginkgo Biloba",
+        "category": "Herbal Nootropic",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Absolute",
+        "risk_description": "Increases bleeding risk",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antiplatelets, NSAIDs",
+        "drug_drug_interaction": [
+            "Blood thinners (e.g.",
+            "Warfarin",
+            "Aspirin)",
+            "Anticonvulsants",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Memantine",
+        "category": "NMDA Receptor Antagonist",
+        "contraindications": "Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "Risk of drug accumulation",
+        "contraindications_type": "Neurological-related, Renal-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "NMDA receptor antagonists, anticholinergics",
+        "drug_drug_interaction": [
+            "Amantadine",
+            "Sodium bicarbonate",
+            "Dextromethorphan"
+        ]
+    },
+    {
+        "drug_name": "Donepezil",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Bradycardia, Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May worsen bradycardia and increase gastric acid secretion",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Cholinesterase inhibitors, NSAIDs, anticholinergics",
+        "drug_drug_interaction": [
+            "Anticholinergic drugs",
+            "Beta-blockers",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Rivastigmine",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Absolute",
+        "risk_description": "Can lead to increased drug accumulation and toxicity",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Cholinesterase inhibitors, NSAIDs, beta-blockers",
+        "drug_drug_interaction": [
+            "Metoclopramide",
+            "Beta-blockers",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Galantamine",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Increased risk of toxicity",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Cholinesterase inhibitors, NSAIDs, anticholinergics",
+        "drug_drug_interaction": [
+            "Ketoconazole",
+            "Paroxetine",
+            "Erythromycin"
+        ]
+    },
+    {
+        "drug_name": "Choline Alfoscerate",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "No major drug interactions",
+        "drug_drug_interaction": [
+            "Anticholinergic drugs",
+            "Acetylcholinesterase inhibitors",
+            "Blood thinners"
+        ]
+    },
+    {
+        "drug_name": "Acetyl-L-Carnitine",
+        "category": "Nootropic",
+        "contraindications": "Hypothyroidism, Seizure disorders",
+        "severity": "Relative",
+        "risk_description": "May worsen symptoms in these conditions",
+        "contraindications_type": "Neurological-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Warfarin, thyroid medications",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Thyroid hormones",
+            "Blood thinners"
+        ]
+    },
+    {
+        "drug_name": "Cerebroprotein Hydrolysate",
+        "category": "Nootropic",
+        "contraindications": "Severe kidney disease",
+        "severity": "Relative",
+        "risk_description": "Risk of toxicity in renal impairment",
+        "contraindications_type": "Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "No major drug interactions",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Blood thinners",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Selegiline",
+        "category": "MAOI (Antiparkinsonian)",
+        "contraindications": "MAOI or SSRI use, Hypertension",
+        "severity": "Absolute",
+        "risk_description": "Risk of serotonin syndrome and hypertensive crisis",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "MAOIs, SSRIs, sympathomimetics",
+        "drug_drug_interaction": [
+            "SSRIs",
+            "MAOIs",
+            "Tricyclic antidepressants"
+        ]
+    },
+    {
+        "drug_name": "Lecithin",
+        "category": "Lipid Supplement",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antihypertensives",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "Cholinergic drugs",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Phosphatidylcholine",
+        "category": "Lipid Supplement",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, blood thinners",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "Cholinergic drugs",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Huperzine A",
+        "category": "Acetylcholinesterase Inhibitor",
+        "contraindications": "Bradycardia, Peptic ulcers",
+        "severity": "Relative",
+        "risk_description": "May worsen heart and gastrointestinal conditions",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Cholinesterase inhibitors, beta-blockers",
+        "drug_drug_interaction": [
+            "Cholinergic drugs",
+            "Anticholinergic drugs",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Alpha-Lipoic Acid",
+        "category": "Antioxidant",
+        "contraindications": "Hypoglycemia, Thyroid disorders",
+        "severity": "Relative",
+        "risk_description": "May lower blood sugar excessively",
+        "contraindications_type": "Metabolic-related, Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antidiabetic drugs, chemotherapy agents",
+        "drug_drug_interaction": [
+            "Insulin",
+            "Blood sugar-lowering drugs",
+            "Chemotherapy drugs"
+        ]
+    },
+    {
+        "drug_name": "Piracetam + Cinnarizine",
+        "category": "Nootropic + Antihistamine",
+        "contraindications": "Parkinson\u2019s disease, Severe renal impairment",
+        "severity": "Relative",
+        "risk_description": "May worsen movement disorders",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, anticoagulants",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "CNS depressants",
+            "Antihistamines"
+        ]
+    },
+    {
+        "drug_name": "Citicoline",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Levodopa, dopaminergic drugs",
+        "drug_drug_interaction": [
+            "Levodopa",
+            "Acetylcholinesterase inhibitors",
+            "Blood thinners"
+        ]
+    },
+    {
+        "drug_name": "Ginkgo Biloba",
+        "category": "Herbal Nootropic",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Absolute",
+        "risk_description": "Increases bleeding risk",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, NSAIDs, antiplatelets",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "NSAIDs",
+            "Anticonvulsants"
+        ]
+    },
+    {
+        "drug_name": "Omega-3 Fatty Acids",
+        "category": "Cardiovascular Support",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Relative",
+        "risk_description": "May increase bleeding risk",
+        "contraindications_type": "Cardiovascular-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antihypertensives",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Aspirin",
+            "Clopidogrel"
+        ]
+    },
+    {
+        "drug_name": "Methylcobalamin (B12)",
+        "category": "Vitamin Supplement",
+        "contraindications": "Leber's disease (hereditary optic neuropathy)",
+        "severity": "Absolute",
+        "risk_description": "Can worsen optic nerve damage",
+        "contraindications_type": "Metabolic-related, Neurological-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy & lactation",
+        "drug_interactions": "No major drug interactions",
+        "drug_drug_interaction": [
+            "Chloramphenicol",
+            "Metformin",
+            "Proton pump inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Nimodipine",
+        "category": "Calcium Channel Blocker",
+        "contraindications": "Severe hypotension, Liver impairment",
+        "severity": "Absolute",
+        "risk_description": "Can cause excessive blood pressure drop",
+        "contraindications_type": "Cardiovascular-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Calcium channel blockers, antihypertensives",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole",
+            "Erythromycin)",
+            "Carbamazepine",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Choline Bitartrate",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "No major drug interactions",
+        "drug_drug_interaction": [
+            "Acetylcholinesterase inhibitors",
+            "Anticholinergic drugs",
+            "Blood thinners"
+        ]
+    },
+    {
+        "drug_name": "Alpha-GPC",
+        "category": "Nootropic",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "No major drug interactions",
+        "drug_drug_interaction": [
+            "Acetylcholinesterase inhibitors",
+            "Blood thinners",
+            "Anticholinergic drugs"
+        ]
+    },
+    {
+        "drug_name": "L-Glutamine",
+        "category": "Amino Acid Supplement",
+        "contraindications": "Kidney disease, Liver disease",
+        "severity": "Relative",
+        "risk_description": "May accumulate in renal/hepatic impairment",
+        "contraindications_type": "Metabolic-related, Renal-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Likely safe in pregnancy & lactation",
+        "drug_interactions": "Antiepileptic drugs, chemotherapy agents",
+        "drug_drug_interaction": [
+            "Antiepileptic drugs",
+            "Cancer chemotherapy drugs"
+        ]
+    },
+    {
+        "drug_name": "Folic Acid + B12",
+        "category": "Vitamin Supplement",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No known serious contraindications",
+        "contraindications_type": "Metabolic-related, Neurological-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy & lactation",
+        "drug_interactions": "Anticonvulsants, chemotherapy agents",
+        "drug_drug_interaction": [
+            "Methotrexate",
+            "Phenytoin",
+            "Metformin"
+        ]
+    },
+    {
+        "drug_name": "Vinpocetine",
+        "category": "Nootropic",
+        "contraindications": "Pregnancy, Bleeding disorders",
+        "severity": "Absolute",
+        "risk_description": "May cause fetal harm and increase bleeding risk",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Blood thinners, antihypertensives",
+        "drug_drug_interaction": [
+            "Blood thinners (e.g.",
+            "Warfarin",
+            "Aspirin)",
+            "Antihypertensive drugs"
+        ]
+    },
+    {
+        "drug_name": "Nefiracetam",
+        "category": "Nootropic",
+        "contraindications": "Liver disease, Pregnancy",
+        "severity": "Relative",
+        "risk_description": "May accumulate in liver disease",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Cholinesterase inhibitors, CNS stimulants",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Coenzyme Q10 + Omega-3",
+        "category": "Antioxidant + Cardiovascular Support",
+        "contraindications": "Bleeding disorders, Anticoagulant use",
+        "severity": "Relative",
+        "risk_description": "May increase bleeding risk",
+        "contraindications_type": "Cardiovascular-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Caution in pregnancy & lactation",
+        "drug_interactions": "Anticoagulants, antihypertensives",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Blood pressure medications"
+        ]
+    },
+    {
+        "drug_name": "Ashwagandha Extract",
+        "category": "Herbal Adaptogen",
+        "contraindications": "Autoimmune diseases, Hypotension",
+        "severity": "Relative",
+        "risk_description": "May stimulate immune activity and lower blood pressure",
+        "contraindications_type": "Endocrine-related, Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Sedatives, immunosuppressants, thyroid hormones",
+        "drug_drug_interaction": [
+            "Sedatives",
+            "Immunosuppressants",
+            "Thyroid hormones"
+        ]
+    },
+    {
+        "drug_name": "Bacopa Monnieri",
+        "category": "Herbal Nootropic",
+        "contraindications": "Pregnancy, Bradycardia",
+        "severity": "Relative",
+        "risk_description": "Can affect fetal development and slow heart rate",
+        "contraindications_type": "Neurological-related, GI-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Cholinergic drugs, sedatives",
+        "drug_drug_interaction": [
+            "Anticholinergic drugs",
+            "Sedatives",
+            "Thyroid medications"
+        ]
+    },
+    {
+        "drug_name": "S-Adenosylmethionine (SAMe)",
+        "category": "Mood Supplement",
+        "contraindications": "Bipolar disorder, MAOI use",
+        "severity": "Absolute",
+        "risk_description": "May induce mania or serotonin syndrome",
+        "contraindications_type": "Neurological-related, Psychiatric-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antidepressants, MAOIs, SSRIs",
+        "drug_drug_interaction": [
+            "Antidepressants (SSRIs",
+            "MAOIs)",
+            "Levodopa"
+        ]
+    },
+    {
+        "drug_name": "Melatonin",
+        "category": "Sleep Aid/Hormone",
+        "contraindications": "Autoimmune diseases, Pregnancy",
+        "severity": "Relative",
+        "risk_description": "Can affect immune function and hormonal balance",
+        "contraindications_type": "Sleep-related, Neurological-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Sedatives, anticoagulants, immunosuppressants",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Blood thinners",
+            "Immunosuppressants"
+        ]
+    },
+    {
+        "drug_name": "Quetiapine XR",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Risk of drug accumulation",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antipsychotics, CNS depressants, antihypertensives",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole)"
+        ]
+    },
+    {
+        "drug_name": "Armodafinil",
+        "category": "Wakefulness Promoter",
+        "contraindications": "Severe hypertension, Arrhythmias",
+        "severity": "Absolute",
+        "risk_description": "Can increase heart rate and blood pressure",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS stimulants, MAOIs, antidepressants",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole)",
+            "Hormonal contraceptives",
+            "CNS stimulants"
+        ]
+    },
+    {
+        "drug_name": "Modafinil",
+        "category": "Wakefulness Promoter",
+        "contraindications": "Anxiety disorders, Uncontrolled hypertension",
+        "severity": "Relative",
+        "risk_description": "Can worsen anxiety and elevate blood pressure",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS stimulants, MAOIs, antidepressants",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole)",
+            "Oral contraceptives",
+            "CNS stimulants"
+        ]
+    },
+    {
+        "drug_name": "Caffeine + Piracetam",
+        "category": "Stimulant + Nootropic",
+        "contraindications": "Anxiety, Insomnia, Arrhythmias",
+        "severity": "Relative",
+        "risk_description": "May exacerbate anxiety and heart conditions",
+        "contraindications_type": "Neurological-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Stimulants, anticoagulants, blood thinners",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "Antihypertensive drugs"
+        ]
+    },
+    {
+        "drug_name": "Adenosine",
+        "category": "Antiarrhythmic",
+        "contraindications": "Asthma, Heart block",
+        "severity": "Absolute",
+        "risk_description": "Can cause bronchospasm and worsen heart block",
+        "contraindications_type": "Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Beta-blockers, calcium channel blockers, digoxin",
+        "drug_drug_interaction": [
+            "Caffeine",
+            "Theophylline",
+            "Dipyridamole"
+        ]
+    },
+    {
+        "drug_name": "Flupentixol + Melitracen",
+        "category": "Antipsychotic + Antidepressant",
+        "contraindications": "Severe cardiac disease, MAOI use",
+        "severity": "Absolute",
+        "risk_description": "May increase cardiac risk and serotonin syndrome",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antidepressants, MAOIs, CNS depressants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Escitalopram + Donepezil",
+        "category": "SSRI + Acetylcholinesterase Inhibitor",
+        "contraindications": "QT prolongation, Bradycardia",
+        "severity": "Relative",
+        "risk_description": "Can increase risk of arrhythmias",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "SSRIs, cholinesterase inhibitors, anticoagulants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Serotonergic drugs",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Benzodiazepines",
+        "category": "Anxiolytic/Sedative",
+        "contraindications": "Severe respiratory insufficiency",
+        "severity": "Absolute",
+        "risk_description": "May cause respiratory depression",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, alcohol, opioids",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "Opioids",
+            "Antihistamines"
+        ]
+    },
+    {
+        "drug_name": "Lithium Carbonate",
+        "category": "Mood Stabilizer",
+        "contraindications": "Renal disease, Dehydration",
+        "severity": "Absolute",
+        "risk_description": "Can cause lithium toxicity",
+        "contraindications_type": "Psychiatric-related, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Diuretics, NSAIDs, ACE inhibitors",
+        "drug_drug_interaction": [
+            "NSAIDs",
+            "Diuretics",
+            "ACE inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Valproic Acid",
+        "category": "Antiepileptic/Mood Stabilizer",
+        "contraindications": "Pregnancy, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of birth defects and hepatotoxicity",
+        "contraindications_type": "Neurological-related, Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "High risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Teratogenic; avoid in pregnancy",
+        "drug_interactions": "Antiepileptic drugs, anticoagulants",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Phenytoin",
+            "Lamotrigine"
+        ]
+    },
+    {
+        "drug_name": "Clonazepam",
+        "category": "Benzodiazepine",
+        "contraindications": "Severe respiratory insufficiency",
+        "severity": "Absolute",
+        "risk_description": "Risk of respiratory depression",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, alcohol, opioids",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Alcohol",
+            "Opioids"
+        ]
+    },
+    {
+        "drug_name": "Olanzapine",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Diabetes, Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "May worsen blood sugar control",
+        "contraindications_type": "Psychiatric-related, Metabolic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antipsychotics, CNS depressants, antihypertensives",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Dopamine agonists",
+            "CYP1A2 inhibitors (e.g.",
+            "Fluvoxamine)"
+        ]
+    },
+    {
+        "drug_name": "Trazodone",
+        "category": "Antidepressant/Sleep Aid",
+        "contraindications": "Severe cardiac disease",
+        "severity": "Relative",
+        "risk_description": "Risk of arrhythmias and hypotension",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antidepressants, MAOIs, anticoagulants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "SSRIs",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Mirtazapine",
+        "category": "Atypical Antidepressant",
+        "contraindications": "Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Increased drug accumulation",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "SSRIs, MAOIs, CNS depressants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "CNS depressants",
+            "Serotonergic drugs"
+        ]
+    },
+    {
+        "drug_name": "Haloperidol",
+        "category": "Typical Antipsychotic",
+        "contraindications": "Parkinson's disease, QT prolongation",
+        "severity": "Absolute",
+        "risk_description": "Can worsen motor symptoms and increase risk of arrhythmias",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antipsychotics, CNS depressants, antihypertensives",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole)",
+            "Dopamine agonists"
+        ]
+    },
+    {
+        "drug_name": "Aripiprazole",
+        "category": "Atypical Antipsychotic",
+        "contraindications": "Dementia-related psychosis, Severe hepatic impairment",
+        "severity": "Relative",
+        "risk_description": "Increased risk of mortality in elderly patients",
+        "contraindications_type": "Psychiatric-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antipsychotics, antidepressants, antihypertensives",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole)",
+            "Dopamine agonists"
+        ]
+    },
+    {
+        "drug_name": "Nicergoline",
+        "category": "Vasodilator/Nootropic",
+        "contraindications": "Bleeding disorders, Hypotension",
+        "severity": "Absolute",
+        "risk_description": "May increase bleeding risk and cause hypotension",
+        "contraindications_type": "Cardiovascular-related, Neurological-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antihypertensives, anticoagulants",
+        "drug_drug_interaction": [
+            "Blood thinners",
+            "Antihypertensive drugs"
+        ]
+    },
+    {
+        "drug_name": "Dexamethasone",
+        "category": "Corticosteroid",
+        "contraindications": "Systemic fungal infections, Uncontrolled diabetes",
+        "severity": "Absolute",
+        "risk_description": "Can suppress immune function and worsen glucose control",
+        "contraindications_type": "Endocrine-related, Immunosuppressive",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Avoid prolonged use in pregnancy",
+        "drug_interactions": "Immunosuppressants, NSAIDs, anticoagulants",
+        "drug_drug_interaction": [
+            "CYP3A4 inducers (e.g.",
+            "Rifampin)",
+            "Immunosuppressants",
+            "Diuretics"
+        ]
+    },
+    {
+        "drug_name": "Propranolol",
+        "category": "Beta-Blocker",
+        "contraindications": "Asthma, Bradycardia, Heart block",
+        "severity": "Absolute",
+        "risk_description": "Can cause bronchospasm and dangerously slow heart rate",
+        "contraindications_type": "Cardiovascular-related, Respiratory-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy unless necessary",
+        "drug_interactions": "Beta-blockers, calcium channel blockers",
+        "drug_drug_interaction": [
+            "Calcium channel blockers",
+            "Beta-agonists",
+            "Antidiabetic drugs"
+        ]
+    },
+    {
+        "drug_name": "Tadalafil",
+        "category": "Phosphodiesterase-5 Inhibitor",
+        "contraindications": "Severe hypotension, Nitrate use",
+        "severity": "Absolute",
+        "risk_description": "Can cause a life-threatening drop in blood pressure",
+        "contraindications_type": "Cardiovascular-related, Urogenital-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Nitrates, alpha-blockers, antihypertensives",
+        "drug_drug_interaction": [
+            "Nitrates",
+            "Alpha-blockers",
+            "Antihypertensive drugs"
+        ]
+    },
+    {
+        "drug_name": "Baclofen",
+        "category": "Muscle Relaxant",
+        "contraindications": "Severe renal impairment, Epilepsy",
+        "severity": "Relative",
+        "risk_description": "May accumulate in renal failure and lower seizure threshold",
+        "contraindications_type": "Neurological-related, Musculoskeletal-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, alcohol, opioids",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Alcohol",
+            "Opioids"
+        ]
+    },
+    {
+        "drug_name": "Albuterol/Ipratropium",
+        "category": "Bronchodilator (Beta-2 Agonist + Anticholinergic)",
+        "contraindications": "Severe cardiac disease, Glaucoma",
+        "severity": "Relative",
+        "risk_description": "May increase heart rate and intraocular pressure",
+        "contraindications_type": "Respiratory-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Beta-agonists, diuretics, MAOIs",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "MAOIs",
+            "Tricyclic antidepressants"
+        ]
+    },
+    {
+        "drug_name": "Tiotropium",
+        "category": "Anticholinergic Bronchodilator",
+        "contraindications": "Glaucoma, Urinary retention",
+        "severity": "Absolute",
+        "risk_description": "Can worsen intraocular pressure and cause urinary obstruction",
+        "contraindications_type": "Respiratory-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Anticholinergics, beta-agonists",
+        "drug_drug_interaction": [
+            "Anticholinergic drugs",
+            "Beta-agonists"
+        ]
+    },
+    {
+        "drug_name": "Budesonide/Formoterol",
+        "category": "Inhaled Corticosteroid + Beta-2 Agonist",
+        "contraindications": "Uncontrolled hypertension, Severe infections",
+        "severity": "Relative",
+        "risk_description": "May worsen blood pressure and suppress immune response",
+        "contraindications_type": "Respiratory-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (inhaled)",
+        "drug_interactions": "Beta-agonists, corticosteroids",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "MAOIs",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Umeclidinium/Vilanterol",
+        "category": "Anticholinergic + Beta-2 Agonist",
+        "contraindications": "Glaucoma, Urinary retention",
+        "severity": "Absolute",
+        "risk_description": "Can increase intraocular pressure and cause urinary obstruction",
+        "contraindications_type": "Respiratory-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Beta-agonists, corticosteroids, diuretics",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "MAOIs",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Salmeterol/Fluticasone",
+        "category": "Long-acting Beta-2 Agonist + Corticosteroid",
+        "contraindications": "Cardiac arrhythmias, Uncontrolled diabetes",
+        "severity": "Relative",
+        "risk_description": "May exacerbate arrhythmias and increase blood sugar",
+        "contraindications_type": "Respiratory-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (inhaled)",
+        "drug_interactions": "Beta-agonists, corticosteroids",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "MAOIs",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Budesonide/Formoterol/Glycopyrrolate",
+        "category": "Triple Therapy (ICS + LABA + LAMA)",
+        "contraindications": "Glaucoma, Urinary retention",
+        "severity": "Absolute",
+        "risk_description": "Can increase intraocular pressure and cause urinary obstruction",
+        "contraindications_type": "Respiratory-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Beta-agonists, corticosteroids, anticholinergics",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "MAOIs",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Ipratropium",
+        "category": "Anticholinergic Bronchodilator",
+        "contraindications": "Glaucoma, Urinary retention",
+        "severity": "Absolute",
+        "risk_description": "Can worsen intraocular pressure and urinary retention",
+        "contraindications_type": "Respiratory-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (inhaled)",
+        "drug_interactions": "Anticholinergics, beta-agonists",
+        "drug_drug_interaction": [
+            "Anticholinergic drugs",
+            "Beta-agonists"
+        ]
+    },
+    {
+        "drug_name": "Theophylline",
+        "category": "Methylxanthine Bronchodilator",
+        "contraindications": "Peptic ulcer disease, Cardiac arrhythmias",
+        "severity": "Absolute",
+        "risk_description": "Can cause GI irritation and worsen arrhythmias",
+        "contraindications_type": "Respiratory-related, Cardiovascular-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Beta-agonists, diuretics, antibiotics",
+        "drug_drug_interaction": [
+            "CYP1A2 inhibitors (e.g.",
+            "Ciprofloxacin)",
+            "Beta-blockers",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Roflumilast",
+        "category": "Phosphodiesterase-4 Inhibitor",
+        "contraindications": "Severe liver disease, Depression",
+        "severity": "Absolute",
+        "risk_description": "Can worsen liver function and increase suicide risk",
+        "contraindications_type": "Respiratory-related, GI-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Antidepressants, corticosteroids, CYP3A4 inhibitors",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors (e.g.",
+            "Ketoconazole)",
+            "Immunosuppressants"
+        ]
+    },
+    {
+        "drug_name": "Ambroxol",
+        "category": "Mucolytic",
+        "contraindications": "Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May increase gastric irritation",
+        "contraindications_type": "Respiratory-related, GI-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy after first trimester",
+        "drug_interactions": "Antitussives, antibiotics",
+        "drug_drug_interaction": [
+            "Cough suppressants",
+            "Antibiotics (e.g.",
+            "Amoxicillin)"
+        ]
+    },
+    {
+        "drug_name": "Guaifenesin",
+        "category": "Expectorant",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No serious contraindications",
+        "contraindications_type": "Respiratory-related, GI-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy",
+        "drug_interactions": "Antihistamines, CNS depressants",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Antihistamines"
+        ]
+    },
+    {
+        "drug_name": "Acetylcysteine",
+        "category": "Mucolytic",
+        "contraindications": "Asthma, Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May cause bronchospasm and gastric irritation",
+        "contraindications_type": "Respiratory-related, GI-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Antibiotics, nitrates",
+        "drug_drug_interaction": [
+            "Nitroglycerin",
+            "Activated charcoal"
+        ]
+    },
+    {
+        "drug_name": "Carbocisteine",
+        "category": "Mucolytic",
+        "contraindications": "Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May increase gastric irritation",
+        "contraindications_type": "Respiratory-related, GI-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "Mucolytics, anticoagulants",
+        "drug_drug_interaction": [
+            "Antitussives (e.g.",
+            "Codeine",
+            "Dextromethorphan)"
+        ]
+    },
+    {
+        "drug_name": "Bromhexine",
+        "category": "Mucolytic",
+        "contraindications": "Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May increase gastric irritation",
+        "contraindications_type": "Respiratory-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "Antitussives, antibiotics",
+        "drug_drug_interaction": [
+            "Antibiotics (e.g.",
+            "Amoxicillin",
+            "Erythromycin)"
+        ]
+    },
+    {
+        "drug_name": "Codeine/Guaifenesin",
+        "category": "Antitussive + Expectorant",
+        "contraindications": "Respiratory depression, Asthma, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can suppress breathing and worsen liver dysfunction",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, opioids, alcohol",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "MAOIs"
+        ]
+    },
+    {
+        "drug_name": "Dextromethorphan/Guaifenesin",
+        "category": "Antitussive + Expectorant",
+        "contraindications": "MAOI use, Serotonin syndrome risk",
+        "severity": "Absolute",
+        "risk_description": "Can cause serotonin syndrome when combined with MAOIs",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "MAOIs, SSRIs, alcohol",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Acetaminophen/Phenylephrine/Dextromethorphan",
+        "category": "Cold & Flu Combination",
+        "contraindications": "Uncontrolled hypertension, MAOI use",
+        "severity": "Absolute",
+        "risk_description": "Can raise blood pressure and interact with MAOIs",
+        "contraindications_type": "Respiratory-related, Cardiovascular-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "MAOIs, antihypertensives, antidepressants",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "Beta-blockers",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Dextromethorphan",
+        "category": "Antitussive",
+        "contraindications": "MAOI use, Serotonin syndrome risk",
+        "severity": "Absolute",
+        "risk_description": "Can cause serotonin syndrome when combined with MAOIs",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "MAOIs, SSRIs, alcohol",
+        "drug_drug_interaction": [
+            "MAOIs",
+            "SSRIs",
+            "Tricyclic antidepressants"
+        ]
+    },
+    {
+        "drug_name": "Chlorpheniramine",
+        "category": "Antihistamine",
+        "contraindications": "Glaucoma, Urinary retention",
+        "severity": "Absolute",
+        "risk_description": "Can increase intraocular pressure and urinary obstruction",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CNS depressants, alcohol, MAOIs",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "MAOIs"
+        ]
+    },
+    {
+        "drug_name": "Codeine",
+        "category": "Opioid Antitussive",
+        "contraindications": "Respiratory depression, Asthma, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can suppress breathing and worsen liver dysfunction",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "High",
+        "allergy_risks": "High risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Opioids, CNS depressants, alcohol",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "MAOIs"
+        ]
+    },
+    {
+        "drug_name": "Ivy Leaf Extract",
+        "category": "Herbal Expectorant",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No serious contraindications",
+        "contraindications_type": "Respiratory-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy",
+        "drug_interactions": "Minimal interactions",
+        "drug_drug_interaction": [
+            "Antitussives"
+        ]
+    },
+    {
+        "drug_name": "Hydrocodone",
+        "category": "Opioid Antitussive",
+        "contraindications": "Respiratory depression, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can suppress breathing and worsen liver dysfunction",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "High",
+        "allergy_risks": "High risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Opioids, CNS depressants, alcohol",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Benzodiazepines",
+            "MAOIs"
+        ]
+    },
+    {
+        "drug_name": "Carbocisteine",
+        "category": "Mucolytic",
+        "contraindications": "Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May increase gastric irritation",
+        "contraindications_type": "Respiratory-related, GI-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "Mucolytics, anticoagulants",
+        "drug_drug_interaction": [
+            "Antitussives"
+        ]
+    },
+    {
+        "drug_name": "Diphenhydramine",
+        "category": "Antihistamine",
+        "contraindications": "Glaucoma, Urinary retention, Elderly patients",
+        "severity": "Absolute",
+        "risk_description": "Can increase intraocular pressure and cause cognitive impairment",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CNS depressants, alcohol, MAOIs",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "MAOIs"
+        ]
+    },
+    {
+        "drug_name": "Benzonatate",
+        "category": "Antitussive",
+        "contraindications": "Allergy to local anesthetics, Children <10 years",
+        "severity": "Absolute",
+        "risk_description": "Can cause fatal overdose in young children",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "High",
+        "allergy_risks": "High risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, alcohol",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Alcohol"
+        ]
+    },
+    {
+        "drug_name": "Thyme and Primula Extract",
+        "category": "Herbal Expectorant",
+        "contraindications": "None (Generally safe)",
+        "severity": "-",
+        "risk_description": "No serious contraindications",
+        "contraindications_type": "Respiratory-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy",
+        "drug_interactions": "Minimal interactions",
+        "drug_drug_interaction": [
+            "Antitussives"
+        ]
+    },
+    {
+        "drug_name": "Acetylcysteine",
+        "category": "Mucolytic",
+        "contraindications": "Asthma, Peptic ulcer disease",
+        "severity": "Relative",
+        "risk_description": "May cause bronchospasm and gastric irritation",
+        "contraindications_type": "Respiratory-related, GI-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Antibiotics, nitrates",
+        "drug_drug_interaction": [
+            "Nitroglycerin",
+            "Activated charcoal"
+        ]
+    },
+    {
+        "drug_name": "Promethazine",
+        "category": "Antihistamine/Antiemetic",
+        "contraindications": "Glaucoma, Urinary retention, Respiratory depression",
+        "severity": "Absolute",
+        "risk_description": "Can cause sedation and breathing issues",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "CNS depressants, MAOIs, opioids",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "MAOIs"
+        ]
+    },
+    {
+        "drug_name": "Oxeladine",
+        "category": "Antitussive",
+        "contraindications": "Respiratory depression, Asthma",
+        "severity": "Relative",
+        "risk_description": "Can suppress cough reflex and cause airway obstruction",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CNS depressants, antihistamines",
+        "drug_drug_interaction": [
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Eprazinone",
+        "category": "Mucolytic",
+        "contraindications": "Severe respiratory conditions, Peptic ulcer",
+        "severity": "Relative",
+        "risk_description": "May cause bronchial irritation",
+        "contraindications_type": "Respiratory-related, CNS-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CNS depressants, anticholinergics",
+        "drug_drug_interaction": [
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Doxylamine",
+        "category": "Antihistamine",
+        "contraindications": "Glaucoma, Urinary retention, Elderly patients",
+        "severity": "Absolute",
+        "risk_description": "Can increase intraocular pressure and cause cognitive impairment",
+        "contraindications_type": "CNS-related, Respiratory-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CNS depressants, alcohol, MAOIs",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Alcohol"
+        ]
+    },
+    {
+        "drug_name": "Ketoconazole",
+        "category": "Antifungal",
+        "contraindications": "Liver disease, QT prolongation",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe hepatotoxicity and arrhythmias",
+        "contraindications_type": "Hepatic-related, Endocrine-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CYP3A4 inhibitors, statins, anticoagulants",
+        "drug_drug_interaction": [
+            "CYP3A4 substrates",
+            "Statins (e.g.",
+            "Atorvastatin",
+            "Simvastatin)",
+            "Benzodiazepines"
+        ]
+    },
+    {
+        "drug_name": "Metyrapone",
+        "category": "Cortisol Synthesis Inhibitor",
+        "contraindications": "Adrenal insufficiency, Pregnancy",
+        "severity": "Absolute",
+        "risk_description": "Can cause adrenal crisis and fetal harm",
+        "contraindications_type": "Endocrine-related (Adrenal insufficiency)",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Corticosteroids, antihypertensives",
+        "drug_drug_interaction": [
+            "Corticosteroids",
+            "CYP3A4 inducers"
+        ]
+    },
+    {
+        "drug_name": "Mitotane",
+        "category": "Adrenolytic Agent",
+        "contraindications": "Pregnancy, Severe hepatic impairment",
+        "severity": "Absolute",
+        "risk_description": "Can lead to fetal harm and liver dysfunction",
+        "contraindications_type": "Endocrine-related (Adrenal carcinoma)",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CYP3A4 substrates, warfarin",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "CYP3A4 substrates"
+        ]
+    },
+    {
+        "drug_name": "Bilateral Adrenalectomy",
+        "category": "Surgical Treatment",
+        "contraindications": "None (Surgical Indication)",
+        "severity": "-",
+        "risk_description": "Requires lifelong hormone replacement",
+        "contraindications_type": "Surgical contraindications",
+        "severity_level": "High",
+        "allergy_risks": "NaN",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "NaN",
+        "drug_interactions": "Requires lifelong hormone replacement",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors",
+            "Corticosteroids"
+        ]
+    },
+    {
+        "drug_name": "Mifepristone",
+        "category": "Antiprogestin",
+        "contraindications": "Pregnancy (Unless for abortion), Bleeding disorders",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe bleeding and pregnancy loss",
+        "contraindications_type": "Pregnancy-related, Endocrine-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy",
+        "drug_interactions": "Corticosteroids, CYP3A4 inhibitors",
+        "drug_drug_interaction": [
+            "Antiarrhythmics",
+            "Insulin and antidiabetic drugs"
+        ]
+    },
+    {
+        "drug_name": "Pasireotide",
+        "category": "Somatostatin Analog",
+        "contraindications": "QT prolongation, Diabetes",
+        "severity": "Relative",
+        "risk_description": "May cause hyperglycemia and arrhythmias",
+        "contraindications_type": "Endocrine-related (Cushing\u2019s disease)",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "QT-prolonging drugs, anti-diabetics",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "Insulin and antidiabetic drugs"
+        ]
+    },
+    {
+        "drug_name": "Somatostatin Analogues (e.g., Octreotide)",
+        "category": "Hormone Inhibitor",
+        "contraindications": "Gallbladder disease, QT prolongation",
+        "severity": "Relative",
+        "risk_description": "May cause gallstones and cardiac arrhythmias",
+        "contraindications_type": "Endocrine-related (GH disorders)",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Insulin, beta-blockers, CYP3A4 drugs",
+        "drug_drug_interaction": [
+            "Loop diuretics",
+            "ACE inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Fludrocortisone",
+        "category": "Corticosteroid",
+        "contraindications": "Uncontrolled hypertension, Heart failure",
+        "severity": "Absolute",
+        "risk_description": "Can cause fluid retention and worsen hypertension",
+        "contraindications_type": "Endocrine-related (Adrenal insufficiency)",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "Adults, elderly",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Diuretics, antihypertensives, anticoagulants",
+        "drug_drug_interaction": [
+            "NSAIDs (e.g.",
+            "Ibuprofen",
+            "Aspirin)",
+            "Diuretics"
+        ]
+    },
+    {
+        "drug_name": "Hydrocortisone",
+        "category": "Corticosteroid",
+        "contraindications": "Systemic infections, Uncontrolled diabetes",
+        "severity": "Absolute",
+        "risk_description": "Can suppress immune function and worsen glucose control",
+        "contraindications_type": "Endocrine-related, Immune-related",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "NSAIDs, diabetes meds, vaccines",
+        "drug_drug_interaction": [
+            "SSRIs",
+            "MAOIs",
+            "Tyramine-rich foods"
+        ]
+    },
+    {
+        "drug_name": "L-deprenyl (Selegiline)",
+        "category": "MAO-B Inhibitor",
+        "contraindications": "MAOI use, Hypertension",
+        "severity": "Absolute",
+        "risk_description": "Can cause hypertensive crisis if combined with other MAOIs",
+        "contraindications_type": "CNS-related (MAOI, Parkinson\u2019s)",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "SSRIs, tyramine foods, sympathomimetics",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Paracetamol (Acetaminophen)",
+        "category": "Analgesic/Antipyretic",
+        "contraindications": "Severe liver disease, Alcoholism",
+        "severity": "Absolute",
+        "risk_description": "Can cause liver toxicity and failure",
+        "contraindications_type": "Hepatic-related, Overdose risk",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (low doses)",
+        "drug_interactions": "Alcohol, warfarin, hepatotoxic drugs",
+        "drug_drug_interaction": [
+            "Anticoagulants (e.g.",
+            "Warfarin)",
+            "Corticosteroids"
+        ]
+    },
+    {
+        "drug_name": "Ibuprofen",
+        "category": "NSAID",
+        "contraindications": "Peptic ulcer disease, Kidney disease, Heart failure",
+        "severity": "Absolute",
+        "risk_description": "Can worsen ulcers, renal function, and cardiovascular conditions",
+        "contraindications_type": "GI-related, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in late pregnancy",
+        "drug_interactions": "Anticoagulants, corticosteroids, antihypertensives",
+        "drug_drug_interaction": [
+            "Anticoagulants",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Aspirin",
+        "category": "NSAID/Antiplatelet",
+        "contraindications": "Peptic ulcer disease, Bleeding disorders, Asthma",
+        "severity": "Absolute",
+        "risk_description": "Can increase bleeding risk and trigger asthma attacks",
+        "contraindications_type": "GI-related, Bleeding disorders",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children (12+)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy (esp. 3rd trimester)",
+        "drug_interactions": "Anticoagulants, NSAIDs, corticosteroids",
+        "drug_drug_interaction": [
+            "NSAIDs",
+            "Immunosuppressants"
+        ]
+    },
+    {
+        "drug_name": "Corticosteroids",
+        "category": "Anti-inflammatory",
+        "contraindications": "Systemic infections, Diabetes, Osteoporosis",
+        "severity": "Relative",
+        "risk_description": "Can suppress immune function and weaken bones",
+        "contraindications_type": "Immune-related, Endocrine-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "NSAIDs, diabetes meds, immunosuppressants",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "MAOIs"
+        ]
+    },
+    {
+        "drug_name": "Diphenhydramine (Antihistamines)",
+        "category": "Antihistamine",
+        "contraindications": "Glaucoma, Urinary retention, Elderly patients",
+        "severity": "Absolute",
+        "risk_description": "Can cause sedation and cognitive impairment",
+        "contraindications_type": "CNS-related, Respiratory-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults, children",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy",
+        "drug_interactions": "CNS depressants, alcohol, MAOIs",
+        "drug_drug_interaction": [
+            "Immunosuppressants",
+            "Corticosteroids"
+        ]
+    },
+    {
+        "drug_name": "Mumps Vaccine (Live, Attenuated)",
+        "category": "Vaccine",
+        "contraindications": "Immunosuppression, Pregnancy",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe infection in immunocompromised individuals",
+        "contraindications_type": "Immune-related (Live vaccine)",
+        "severity_level": "High",
+        "allergy_risks": "Low risk",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy",
+        "drug_interactions": "Immunosuppressants, corticosteroids",
+        "drug_drug_interaction": [
+            "Warfarin (varies by antibiotic)",
+            "Oral contraceptives"
+        ]
+    },
+    {
+        "drug_name": "Antibiotics (for complications)",
+        "category": "Anti-infective",
+        "contraindications": "Specific drug allergies, Kidney disease",
+        "severity": "Relative",
+        "risk_description": "May cause allergic reactions and kidney toxicity",
+        "contraindications_type": "Varies (GI-related, Immune-related)",
+        "severity_level": "Moderate",
+        "allergy_risks": "Varies",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Varies by antibiotic",
+        "drug_interactions": "Oral contraceptives, warfarin, probiotics",
+        "drug_drug_interaction": [
+            "Warfarin (varies by antibiotic)",
+            "Oral contraceptives"
+        ]
+    },
+    {
+        "drug_name": "Methimazole",
+        "category": "Antithyroid Drug",
+        "contraindications": "Pregnancy (First Trimester), Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can cause congenital defects and liver dysfunction",
+        "contraindications_type": "Endocrine-related (Thyroid disorders)",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in first trimester",
+        "drug_interactions": "Anticoagulants, beta-blockers, digoxin",
+        "drug_drug_interaction": [
+            "Anticoagulants",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Propylthiouracil (PTU)",
+        "category": "Antithyroid Drug",
+        "contraindications": "Liver disease, Agranulocytosis",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe liver damage and low white blood cell count",
+        "contraindications_type": "Endocrine-related (Thyroid disorders)",
+        "severity_level": "High",
+        "allergy_risks": "Moderate risk",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Preferred in pregnancy (1st trimester)",
+        "drug_interactions": "Anticoagulants, beta-blockers, digoxin",
+        "drug_drug_interaction": [
+            "Anticoagulants",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Carbimazole",
+        "category": "Antithyroid Drug",
+        "contraindications": "Pregnancy, Liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can cause congenital defects and liver dysfunction",
+        "contraindications_type": "Hepatic-related, Blood disorders",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy (teratogenic)",
+        "drug_interactions": "Warfarin, Theophylline",
+        "drug_drug_interaction": [
+            "Anticoagulants",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Radioactive Iodine (RAI)",
+        "category": "Thyroid Ablation Therapy",
+        "contraindications": "Pregnancy, Lactation",
+        "severity": "Absolute",
+        "risk_description": "Can cause fetal thyroid dysfunction",
+        "contraindications_type": "Thyroid-related, Pregnancy",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy & lactation",
+        "drug_interactions": "Antithyroid drugs",
+        "drug_drug_interaction": [
+            "Antithyroid drugs (e.g.",
+            "Methimazole",
+            "PTU)",
+            "Amiodarone"
+        ]
+    },
+    {
+        "drug_name": "Propranolol (Beta-blocker)",
+        "category": "Beta-blocker",
+        "contraindications": "Asthma, Bradycardia, Heart failure (Severe), Hypotension",
+        "severity": "Absolute",
+        "risk_description": "Can cause bronchospasm, worsen heart failure, and reduce heart rate dangerously",
+        "contraindications_type": "Cardiovascular-related, Asthma",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Elderly",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Insulin, Calcium channel blockers",
+        "drug_drug_interaction": [
+            "Calcium channel blockers",
+            "Insulin and antidiabetic drugs"
+        ]
+    },
+    {
+        "drug_name": "Iodine (Potassium iodide)",
+        "category": "Antithyroid/Expectorant",
+        "contraindications": "Hyperthyroidism (long-term use), Iodine allergy, Kidney disease",
+        "severity": "Relative",
+        "risk_description": "Can worsen hyperthyroidism and cause iodine toxicity",
+        "contraindications_type": "Thyroid-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Children (12+)",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy unless necessary",
+        "drug_interactions": "Lithium, ACE inhibitors",
+        "drug_drug_interaction": [
+            "ACE inhibitors",
+            "Potassium-sparing diuretics"
+        ]
+    },
+    {
+        "drug_name": "Prednisolone (Corticosteroid)",
+        "category": "Corticosteroid",
+        "contraindications": "Systemic infections, Diabetes, Osteoporosis, Peptic ulcers",
+        "severity": "Absolute",
+        "risk_description": "Can suppress immune function, raise blood sugar, and weaken bones",
+        "contraindications_type": "Infection-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "NSAIDs, Diuretics",
+        "drug_drug_interaction": [
+            "NSAIDs (e.g.",
+            "Ibuprofen",
+            "Aspirin)",
+            "Diuretics"
+        ]
+    },
+    {
+        "drug_name": "Diazepam (Benzodiazepine)",
+        "category": "Sedative/Anxiolytic",
+        "contraindications": "Respiratory depression, Myasthenia gravis, Severe liver disease",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe sedation and respiratory failure",
+        "contraindications_type": "CNS-related, Respiratory depression",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Elderly",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy & lactation",
+        "drug_interactions": "Alcohol, Opioids",
+        "drug_drug_interaction": [
+            "CNS depressants",
+            "Alcohol"
+        ]
+    },
+    {
+        "drug_name": "Levothyroxine (T4)",
+        "category": "Thyroid Hormone",
+        "contraindications": "Untreated adrenal insufficiency, Acute myocardial infarction, Thyrotoxicosis",
+        "severity": "Absolute",
+        "risk_description": "Can worsen heart conditions and adrenal crisis",
+        "contraindications_type": "Thyroid-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "All ages",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy, but dose adjustment needed",
+        "drug_interactions": "Antacids, Warfarin",
+        "drug_drug_interaction": [
+            "Antacids (Calcium",
+            "Magnesium",
+            "Aluminum)",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Liothyronine (T3)",
+        "category": "Thyroid Hormone",
+        "contraindications": "Cardiovascular disease, Thyrotoxicosis, Adrenal insufficiency",
+        "severity": "Absolute",
+        "risk_description": "Can cause cardiac arrhythmias and worsen hyperthyroidism",
+        "contraindications_type": "Thyroid-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Sympathomimetics, Digoxin",
+        "drug_drug_interaction": [
+            "Sympathomimetics",
+            "Antidiabetic drugs"
+        ]
+    },
+    {
+        "drug_name": "Liotrix",
+        "category": "Combination Thyroid Hormone",
+        "contraindications": "Untreated adrenal insufficiency, Hyperthyroidism, Cardiac disorders",
+        "severity": "Absolute",
+        "risk_description": "Can cause tachycardia and increase metabolic demand",
+        "contraindications_type": "Thyroid-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy",
+        "drug_interactions": "Antidiabetics, Estrogens",
+        "drug_drug_interaction": [
+            "Anticoagulants",
+            "Estrogens"
+        ]
+    },
+    {
+        "drug_name": "Thyroid Extract (Desiccated)",
+        "category": "Natural Thyroid Hormone",
+        "contraindications": "Hypersensitivity, Cardiovascular disease, Hyperthyroidism",
+        "severity": "Absolute",
+        "risk_description": "May cause erratic hormone levels and worsen heart conditions",
+        "contraindications_type": "Thyroid-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Not recommended in pregnancy",
+        "drug_interactions": "Beta-blockers, Insulin",
+        "drug_drug_interaction": [
+            "Antidiabetic drugs",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Methimazole",
+        "category": "Antithyroid Drug",
+        "contraindications": "Pregnancy (First Trimester), Liver disease, Agranulocytosis",
+        "severity": "Absolute",
+        "risk_description": "Can cause congenital defects, liver toxicity, and low white blood cell count",
+        "contraindications_type": "Hepatic-related, Pregnancy",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Teratogenic, avoid in 1st trimester",
+        "drug_interactions": "Anticoagulants, Beta-blockers",
+        "drug_drug_interaction": [
+            "Anticoagulants",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Propylthiouracil (PTU)",
+        "category": "Antithyroid Drug",
+        "contraindications": "Liver disease, Agranulocytosis",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe liver damage and immune suppression",
+        "contraindications_type": "Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Preferred in pregnancy over Methimazole",
+        "drug_interactions": "Anticoagulants, Lithium",
+        "drug_drug_interaction": [
+            "Anticoagulants",
+            "Beta-blockers"
+        ]
+    },
+    {
+        "drug_name": "Amoxicillin",
+        "category": "Antibiotic",
+        "contraindications": "Hypersensitivity to penicillins, Infectious mononucleosis",
+        "severity": "Absolute",
+        "risk_description": "Can cause anaphylactic reactions or severe allergic responses",
+        "contraindications_type": "Allergy-related",
+        "severity_level": "High",
+        "allergy_risks": "High",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "Methotrexate, Warfarin",
+        "drug_drug_interaction": [
+            "Methotrexate",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Paracetamol",
+        "category": "Analgesic/Antipyretic",
+        "contraindications": "Severe liver disease, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of liver toxicity with overdose or in hepatic impairment",
+        "contraindications_type": "Hepatic-related, Allergy-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy at recommended doses",
+        "drug_interactions": "Warfarin, Alcohol",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Alcohol"
+        ]
+    },
+    {
+        "drug_name": "Metformin",
+        "category": "Antidiabetic",
+        "contraindications": "Severe renal impairment, Acute heart failure, Severe liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of lactic acidosis in renal or hepatic impairment",
+        "contraindications_type": "Renal-related, Hepatic-related, Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Generally safe in pregnancy, consult physician",
+        "drug_interactions": "Iodinated contrast media, Alcohol",
+        "drug_drug_interaction": [
+            "Iodinated contrast media",
+            "Alcohol"
+        ]
+    },
+    {
+        "drug_name": "Omeprazole",
+        "category": "Proton Pump Inhibitor",
+        "contraindications": "Hypersensitivity, Concomitant use with nelfinavir",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe allergic reactions or reduced efficacy of nelfinavir",
+        "contraindications_type": "Allergy-related, Drug-interaction-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category C)",
+        "drug_interactions": "Clopidogrel, Warfarin",
+        "drug_drug_interaction": [
+            "Clopidogrel",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Vitamin D3",
+        "category": "Vitamin Supplement",
+        "contraindications": "Hypercalcemia, Sarcoidosis",
+        "severity": "Relative",
+        "risk_description": "Risk of hypercalcemia with excessive doses",
+        "contraindications_type": "Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe at recommended doses",
+        "drug_interactions": "Thiazide diuretics, Calcium supplements",
+        "drug_drug_interaction": [
+            "Thiazide diuretics",
+            "Calcium supplements"
+        ]
+    },
+    {
+        "drug_name": "Azithromycin",
+        "category": "Antibiotic",
+        "contraindications": "Hypersensitivity to macrolides, Severe liver disease",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe allergic reactions or liver toxicity",
+        "contraindications_type": "Allergy-related, Hepatic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "Warfarin, Digoxin",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Digoxin"
+        ]
+    },
+    {
+        "drug_name": "Ibuprofen",
+        "category": "Nonsteroidal Anti-inflammatory Drug",
+        "contraindications": "Peptic ulcer, Severe heart failure, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of gastrointestinal bleeding or cardiovascular events",
+        "contraindications_type": "Gastrointestinal-related, Cardiac-related, Allergy-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Avoid in 3rd trimester (Category D)",
+        "drug_interactions": "Aspirin, Antihypertensives",
+        "drug_drug_interaction": [
+            "Aspirin",
+            "Antihypertensives"
+        ]
+    },
+    {
+        "drug_name": "Bisoprolol",
+        "category": "Beta-blocker",
+        "contraindications": "Severe bradycardia, Heart block, Uncontrolled heart failure",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe bradycardia or heart block exacerbation",
+        "contraindications_type": "Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy (Category C)",
+        "drug_interactions": "Calcium channel blockers, Insulin",
+        "drug_drug_interaction": [
+            "Calcium channel blockers",
+            "Insulin"
+        ]
+    },
+    {
+        "drug_name": "Amlodipine",
+        "category": "Calcium Channel Blocker",
+        "contraindications": "Severe aortic stenosis, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of hypotension or worsening of aortic stenosis",
+        "contraindications_type": "Cardiac-related, Allergy-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy (Category C)",
+        "drug_interactions": "Simvastatin, CYP3A4 inhibitors",
+        "drug_drug_interaction": [
+            "Simvastatin",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Cetirizine",
+        "category": "Antihistamine",
+        "contraindications": "Hypersensitivity, Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Risk of allergic reactions or accumulation in renal impairment",
+        "contraindications_type": "Allergy-related, Renal-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "Alcohol, CNS depressants",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "CNS depressants"
+        ]
+    },
+    {
+        "drug_name": "Levothyroxine",
+        "category": "Thyroid Hormone",
+        "contraindications": "Untreated adrenal insufficiency, Acute myocardial infarction",
+        "severity": "Absolute",
+        "risk_description": "Can exacerbate cardiac conditions or adrenal crisis",
+        "contraindications_type": "Cardiac-related, Endocrine-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe and essential in pregnancy",
+        "drug_interactions": "Warfarin, Antacids",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Antacids"
+        ]
+    },
+    {
+        "drug_name": "Atorvastatin",
+        "category": "Statin",
+        "contraindications": "Active liver disease, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of liver toxicity or severe muscle damage",
+        "contraindications_type": "Hepatic-related, Allergy-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy (Category X)",
+        "drug_interactions": "Grapefruit juice, CYP3A4 inhibitors",
+        "drug_drug_interaction": [
+            "Grapefruit juice",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Lactulose",
+        "category": "Laxative",
+        "contraindications": "Galactosemia, Intestinal obstruction",
+        "severity": "Absolute",
+        "risk_description": "Risk of metabolic disturbances or bowel perforation",
+        "contraindications_type": "Metabolic-related, Gastrointestinal-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy",
+        "drug_interactions": "Antacids, Neomycin",
+        "drug_drug_interaction": [
+            "Antacids",
+            "Neomycin"
+        ]
+    },
+    {
+        "drug_name": "Salbutamol",
+        "category": "Bronchodilator",
+        "contraindications": "Hypersensitivity, Uncontrolled tachyarrhythmias",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe tachycardia or allergic reactions",
+        "contraindications_type": "Cardiac-related, Allergy-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category C)",
+        "drug_interactions": "Beta-blockers, Diuretics",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "Diuretics"
+        ]
+    },
+    {
+        "drug_name": "Glibenclamide",
+        "category": "Antidiabetic",
+        "contraindications": "Type 1 diabetes, Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe hypoglycemia or accumulation in renal failure",
+        "contraindications_type": "Endocrine-related, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, use insulin instead",
+        "drug_interactions": "Beta-blockers, NSAIDs",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Diclofenac",
+        "category": "Nonsteroidal Anti-inflammatory Drug",
+        "contraindications": "Peptic ulcer, Severe heart failure, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of gastrointestinal bleeding or cardiovascular events",
+        "contraindications_type": "Gastrointestinal-related, Cardiac-related, Allergy-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in 3rd trimester (Category D)",
+        "drug_interactions": "Aspirin, Antihypertensives",
+        "drug_drug_interaction": [
+            "Aspirin",
+            "Antihypertensives"
+        ]
+    },
+    {
+        "drug_name": "Folic Acid",
+        "category": "Vitamin Supplement",
+        "contraindications": "Untreated vitamin B12 deficiency",
+        "severity": "Relative",
+        "risk_description": "May mask B12 deficiency, leading to neurological damage",
+        "contraindications_type": "Metabolic-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Essential in pregnancy",
+        "drug_interactions": "Methotrexate, Phenytoin",
+        "drug_drug_interaction": [
+            "Methotrexate",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Loratadine",
+        "category": "Antihistamine",
+        "contraindications": "Hypersensitivity, Severe liver impairment",
+        "severity": "Absolute",
+        "risk_description": "Risk of allergic reactions or accumulation in liver impairment",
+        "contraindications_type": "Allergy-related, Hepatic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "CYP3A4 inhibitors, Alcohol",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors",
+            "Alcohol"
+        ]
+    },
+    {
+        "drug_name": "Ceftriaxone",
+        "category": "Antibiotic",
+        "contraindications": "Hypersensitivity to cephalosporins, Neonatal hyperbilirubinemia",
+        "severity": "Absolute",
+        "risk_description": "Risk of anaphylaxis or displacement of bilirubin in neonates",
+        "contraindications_type": "Allergy-related, Neonatal-related",
+        "severity_level": "High",
+        "allergy_risks": "High",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "Calcium-containing IV fluids, Warfarin",
+        "drug_drug_interaction": [
+            "Calcium-containing IV fluids",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Losartan",
+        "category": "Angiotensin Receptor Blocker",
+        "contraindications": "Pregnancy, Severe renal artery stenosis",
+        "severity": "Absolute",
+        "risk_description": "Risk of fetal toxicity or renal ischemia",
+        "contraindications_type": "Pregnancy, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy (Category D)",
+        "drug_interactions": "Potassium supplements, NSAIDs",
+        "drug_drug_interaction": [
+            "Potassium supplements",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Aspirin",
+        "category": "Nonsteroidal Anti-inflammatory Drug",
+        "contraindications": "Peptic ulcer, Bleeding disorders, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of gastrointestinal bleeding or severe allergic reactions",
+        "contraindications_type": "Gastrointestinal-related, Hematologic-related, Allergy-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in 3rd trimester (Category D)",
+        "drug_interactions": "Warfarin, NSAIDs",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Enalapril",
+        "category": "ACE Inhibitor",
+        "contraindications": "Pregnancy, Angioedema history, Severe renal artery stenosis",
+        "severity": "Absolute",
+        "risk_description": "Risk of fetal toxicity, angioedema, or renal failure",
+        "contraindications_type": "Pregnancy, Renal-related, Allergy-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy (Category D)",
+        "drug_interactions": "Potassium supplements, NSAIDs",
+        "drug_drug_interaction": [
+            "Potassium supplements",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Clarithromycin",
+        "category": "Antibiotic",
+        "contraindications": "Hypersensitivity to macrolides, Concomitant use with statins",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe allergic reactions or rhabdomyolysis with statins",
+        "contraindications_type": "Allergy-related, Drug-interaction-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy (Category C)",
+        "drug_interactions": "Statins, Warfarin",
+        "drug_drug_interaction": [
+            "Statins",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Ranitidine",
+        "category": "H2 Receptor Antagonist",
+        "contraindications": "Hypersensitivity, Porphyria",
+        "severity": "Absolute",
+        "risk_description": "Risk of allergic reactions or exacerbation of porphyria",
+        "contraindications_type": "Allergy-related, Metabolic-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "Warfarin, Procainamide",
+        "drug_drug_interaction": [
+            "Warfarin",
+            "Procainamide"
+        ]
+    },
+    {
+        "drug_name": "Montelukast",
+        "category": "Leukotriene Receptor Antagonist",
+        "contraindications": "Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe allergic reactions",
+        "contraindications_type": "Allergy-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "Phenobarbital, Rifampin",
+        "drug_drug_interaction": [
+            "Phenobarbital",
+            "Rifampin"
+        ]
+    },
+    {
+        "drug_name": "Hydrochlorothiazide",
+        "category": "Diuretic",
+        "contraindications": "Anuria, Hypersensitivity to sulfonamides",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe electrolyte imbalance or allergic reactions",
+        "contraindications_type": "Renal-related, Allergy-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy (Category B)",
+        "drug_interactions": "Lithium, NSAIDs",
+        "drug_drug_interaction": [
+            "Lithium",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Vitamin B Complex",
+        "category": "Vitamin Supplement",
+        "contraindications": "Hypersensitivity",
+        "severity": "Relative",
+        "risk_description": "Rare risk of allergic reactions with high doses",
+        "contraindications_type": "Allergy-related",
+        "severity_level": "Low",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy at recommended doses",
+        "drug_interactions": "Levodopa, Phenytoin",
+        "drug_drug_interaction": [
+            "Levodopa",
+            "Phenytoin"
+        ]
+    },
+    {
+        "drug_name": "Simvastatin",
+        "category": "Statin",
+        "contraindications": "Active liver disease, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of liver toxicity or severe muscle damage",
+        "contraindications_type": "Hepatic-related, Allergy-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy (Category X)",
+        "drug_interactions": "Grapefruit juice, CYP3A4 inhibitors",
+        "drug_drug_interaction": [
+            "Grapefruit juice",
+            "CYP3A4 inhibitors"
+        ]
+    },
+    {
+        "drug_name": "Metronidazole",
+        "category": "Antibiotic/Antiprotozoal",
+        "contraindications": "Hypersensitivity, First trimester pregnancy",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe allergic reactions or potential teratogenicity",
+        "contraindications_type": "Allergy-related, Pregnancy",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Avoid in 1st trimester (Category B)",
+        "drug_interactions": "Alcohol, Warfarin",
+        "drug_drug_interaction": [
+            "Alcohol",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Captopril",
+        "category": "ACE Inhibitor",
+        "contraindications": "Pregnancy, Angioedema history, Severe renal artery stenosis",
+        "severity": "Absolute",
+        "risk_description": "Risk of fetal toxicity, angioedema, or renal failure",
+        "contraindications_type": "Pregnancy, Renal-related, Allergy-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy (Category D)",
+        "drug_interactions": "Potassium supplements, NSAIDs",
+        "drug_drug_interaction": [
+            "Potassium supplements",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Budesonide",
+        "category": "Corticosteroid",
+        "contraindications": "Hypersensitivity, Active untreated infections",
+        "severity": "Absolute",
+        "risk_description": "Risk of worsening infections or allergic reactions",
+        "contraindications_type": "Allergy-related, Infectious-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy (Category B)",
+        "drug_interactions": "CYP3A4 inhibitors, NSAIDs",
+        "drug_drug_interaction": [
+            "CYP3A4 inhibitors",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Gliclazide",
+        "category": "Antidiabetic",
+        "contraindications": "Type 1 diabetes, Severe renal impairment",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe hypoglycemia or accumulation in renal failure",
+        "contraindications_type": "Endocrine-related, Renal-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy, use insulin instead",
+        "drug_interactions": "Beta-blockers, NSAIDs",
+        "drug_drug_interaction": [
+            "Beta-blockers",
+            "NSAIDs"
+        ]
+    },
+    {
+        "drug_name": "Ferrous Sulfate",
+        "category": "Iron Supplement",
+        "contraindications": "Hemochromatosis, Hypersensitivity",
+        "severity": "Absolute",
+        "risk_description": "Risk of iron overload or allergic reactions",
+        "contraindications_type": "Metabolic-related, Allergy-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe and essential in pregnancy",
+        "drug_interactions": "Antacids, Tetracyclines",
+        "drug_drug_interaction": [
+            "Antacids",
+            "Tetracyclines"
+        ]
+    },
+    {
+        "drug_name": "Levofloxacin",
+        "category": "Antibiotic",
+        "contraindications": "Hypersensitivity to quinolones, Tendon disorders",
+        "severity": "Absolute",
+        "risk_description": "Risk of tendon rupture or severe allergic reactions",
+        "contraindications_type": "Allergy-related, Musculoskeletal-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Avoid in pregnancy (Category C)",
+        "drug_interactions": "NSAIDs, Warfarin",
+        "drug_drug_interaction": [
+            "NSAIDs",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Esomeprazole",
+        "category": "Proton Pump Inhibitor",
+        "contraindications": "Hypersensitivity, Concomitant use with nelfinavir",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe allergic reactions or reduced efficacy of nelfinavir",
+        "contraindications_type": "Allergy-related, Drug-interaction-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy (Category C)",
+        "drug_interactions": "Clopidogrel, Warfarin",
+        "drug_drug_interaction": [
+            "Clopidogrel",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Doxycycline",
+        "category": "Antibiotic",
+        "contraindications": "Hypersensitivity, Pregnancy, Children under 8 years",
+        "severity": "Absolute",
+        "risk_description": "Risk of teeth discoloration or severe allergic reactions",
+        "contraindications_type": "Allergy-related, Pregnancy, Pediatric-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Children over 8 years",
+        "pregnancy_and_lactation_safety": "Contraindicated in pregnancy (Category D)",
+        "drug_interactions": "Antacids, Warfarin",
+        "drug_drug_interaction": [
+            "Antacids",
+            "Warfarin"
+        ]
+    },
+    {
+        "drug_name": "Propranolol",
+        "category": "Beta-blocker",
+        "contraindications": "Severe bradycardia, Heart block, Uncontrolled heart failure",
+        "severity": "Absolute",
+        "risk_description": "Can cause severe bradycardia or heart block exacerbation",
+        "contraindications_type": "Cardiac-related",
+        "severity_level": "High",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults",
+        "pregnancy_and_lactation_safety": "Use with caution in pregnancy (Category C)",
+        "drug_interactions": "Calcium channel blockers, Insulin",
+        "drug_drug_interaction": [
+            "Calcium channel blockers",
+            "Insulin"
+        ]
+    },
+    {
+        "drug_name": "Calcium Carbonate",
+        "category": "Calcium Supplement",
+        "contraindications": "Hypercalcemia, Renal calculi",
+        "severity": "Absolute",
+        "risk_description": "Risk of hypercalcemia or worsening kidney stones",
+        "contraindications_type": "Metabolic-related, Renal-related",
+        "severity_level": "Moderate",
+        "allergy_risks": "Low",
+        "applicable_age_groups": "Adults, Children",
+        "pregnancy_and_lactation_safety": "Safe in pregnancy at recommended doses",
+        "drug_interactions": "Tetracyclines, Thiazide diuretics",
+        "drug_drug_interaction": [
+            "Tetracyclines",
+            "Thiazide diuretics"
+        ]
+    } ,
+    {
+        "drug_name": "Warfarin",
+        "category": "Antithrombotic Drug",
+        "contraindications": "Active bleeding, recent major surgery, bleeding disorders, pregnancy (especially first trimester)",
+        "severity": "Absolute",
+        "risk_description": "Risk of severe or fatal bleeding, especially when combined with NSAIDs or anticoagulants",
+        "contraindications_type": "Hematologic-related",
+        "severity_level": "High",
+        "allergy_risks": "Moderate",
+        "applicable_age_groups": "Adults, Elderly",
+        "pregnancy_and_lactation_safety": "avoid in pregnancy, especially in first trimester due to teratogenicity",
+        "drug_interactions": "Ibuprofen, NSAIDs, antibiotics (e.g., tetracyclines), antiplatelets",
+        "drug_drug_interaction": [
+                 "Ibuprofen",
+                 "NSAIDs",
+                 "Tetracyclines",
+                 "Antibiotics",
+                 "Antiplatelets"
+        ]
+    }
+]

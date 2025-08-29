@@ -1,0 +1,27 @@
+[
+    {
+        "drug_name": "Ibuprofen",
+        "nutrition_advice": "Take with food to reduce stomach irritation. Include calcium-rich foods to support bone health.",
+        "foods_to_avoid": ["Alcohol", "Spicy foods"]
+    },
+    {
+        "drug_name": "Metformin",
+        "nutrition_advice": "Maintain a balanced diet with low glycemic index foods to manage blood sugar.",
+        "foods_to_avoid": ["Sugary drinks", "Refined carbs"]
+    },
+    {
+        "condition": "Diabetes",
+        "nutrition_advice": "Focus on whole grains, vegetables, and lean proteins. Monitor carbohydrate intake.",
+        "foods_to_avoid": ["Sugary snacks", "Processed foods"]
+    },
+    {
+        "condition": "Hypertension",
+        "nutrition_advice": "Adopt a DASH diet: high in fruits, vegetables, and low-fat dairy; low in sodium.",
+        "foods_to_avoid": ["Salty snacks", "Canned soups"]
+    },
+    {
+        "condition": "Pregnancy",
+        "nutrition_advice": "Increase intake of folate, iron, and calcium. Eat small, frequent meals to manage nausea.",
+        "foods_to_avoid": ["Raw fish", "Unpasteurized dairy"]
+    }
+]
